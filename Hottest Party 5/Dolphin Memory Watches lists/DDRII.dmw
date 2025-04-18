@@ -1,0 +1,367 @@
+{
+    "watchList": [
+        {
+            "address": "802E8400",
+            "baseIndex": 0,
+            "label": "No label",
+            "length": 4,
+            "typeIndex": 5,
+            "unsigned": true
+        },
+        {
+            "address": "8027BD70",
+            "baseIndex": 0,
+            "label": "No label",
+            "length": 4,
+            "typeIndex": 5,
+            "unsigned": true
+        },
+        {
+            "address": "80291AA0",
+            "baseIndex": 0,
+            "label": "No label",
+            "length": 4,
+            "typeIndex": 5,
+            "unsigned": true
+        },
+        {
+            "address": "8026F5A0",
+            "baseIndex": 0,
+            "label": "No label",
+            "length": 6,
+            "typeIndex": 5,
+            "unsigned": true
+        },
+        {
+            "address": "802A4028",
+            "baseIndex": 0,
+            "label": "No label",
+            "length": 4,
+            "typeIndex": 5,
+            "unsigned": true
+        },
+        {
+            "address": "8059D857",
+            "baseIndex": 0,
+            "label": "Current Mode",
+            "typeIndex": 0,
+            "unsigned": true
+        },
+        {
+            "address": "805753D4",
+            "baseIndex": 0,
+            "label": "Character ID",
+            "typeIndex": 2,
+            "unsigned": false
+        },
+        {
+            "address": "8148F17F",
+            "baseIndex": 0,
+            "label": "Character ID",
+            "typeIndex": 0,
+            "unsigned": true
+        },
+        {
+            "address": "80575480",
+            "baseIndex": 0,
+            "label": "Character is Blocked?",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "address": "8057548B",
+            "baseIndex": 0,
+            "label": "Shadow Model",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "address": "8059D877",
+            "baseIndex": 0,
+            "label": "Disable Background",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "address": "808A219B",
+            "baseIndex": 0,
+            "label": "Current Mode",
+            "typeIndex": 0,
+            "unsigned": true
+        },
+        {
+            "address": "808A219F",
+            "baseIndex": 0,
+            "label": "Current Mode",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "address": "808A2234",
+            "baseIndex": 0,
+            "label": "Game Style",
+            "length": 4,
+            "typeIndex": 6,
+            "unsigned": false
+        },
+        {
+            "address": "805419A3",
+            "baseIndex": 0,
+            "label": "Game Style",
+            "typeIndex": 0,
+            "unsigned": true
+        },
+        {
+            "address": "80542CA4",
+            "baseIndex": 0,
+            "label": "No label",
+            "length": 8,
+            "typeIndex": 5,
+            "unsigned": true
+        },
+        {
+            "address": "8068A924",
+            "baseIndex": 0,
+            "label": "Total Arrows",
+            "typeIndex": 2,
+            "unsigned": false
+        },
+        {
+            "address": "8068A920",
+            "baseIndex": 0,
+            "label": "Song MARVELOUS",
+            "typeIndex": 2,
+            "unsigned": false
+        },
+        {
+            "address": "8068A91C",
+            "baseIndex": 0,
+            "label": "Song PERFECTS",
+            "typeIndex": 2,
+            "unsigned": false
+        },
+        {
+            "address": "8068A968",
+            "baseIndex": 0,
+            "label": "Song COMBO MAX",
+            "typeIndex": 2,
+            "unsigned": false
+        },
+        {
+            "address": "8053EB78",
+            "baseIndex": 0,
+            "label": "Song ID",
+            "typeIndex": 2,
+            "unsigned": false
+        },
+        {
+            "address": "817E4578",
+            "baseIndex": 0,
+            "label": "Song ID (Course)",
+            "typeIndex": 2,
+            "unsigned": false
+        },
+        {
+            "address": "8068A8E8",
+            "baseIndex": 0,
+            "label": "Song Score",
+            "typeIndex": 2,
+            "unsigned": false
+        },
+        {
+            "address": "8068A964",
+            "baseIndex": 0,
+            "label": "Song Actual Combo",
+            "typeIndex": 2,
+            "unsigned": false
+        },
+        {
+            "address": "8068A918",
+            "baseIndex": 0,
+            "label": "Song GREATS",
+            "typeIndex": 2,
+            "unsigned": false
+        },
+        {
+            "address": "8068A914",
+            "baseIndex": 0,
+            "label": "Song GOODS",
+            "typeIndex": 2,
+            "unsigned": false
+        },
+        {
+            "address": "8068A90C",
+            "baseIndex": 0,
+            "label": "Song MISSES",
+            "typeIndex": 2,
+            "unsigned": false
+        },
+        {
+            "address": "8068A95C",
+            "baseIndex": 0,
+            "label": "Actual MAX Combo",
+            "typeIndex": 2,
+            "unsigned": false
+        },
+        {
+            "address": "8068A991",
+            "baseIndex": 0,
+            "label": "Combo Related",
+            "typeIndex": 2,
+            "unsigned": false
+        },
+        {
+            "address": "8068A96B",
+            "baseIndex": 0,
+            "label": "Combo Related",
+            "typeIndex": 0,
+            "unsigned": true
+        },
+        {
+            "address": "808B5330",
+            "baseIndex": 0,
+            "label": "Song Actual Combo?",
+            "typeIndex": 2,
+            "unsigned": false
+        },
+        {
+            "address": "8054007B",
+            "baseIndex": 0,
+            "label": "REPLICANT D-ACTION FOLDER",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "address": "8054040C",
+            "baseIndex": 4,
+            "label": "DDR POINTS",
+            "length": 4,
+            "typeIndex": 6,
+            "unsigned": true
+        },
+        {
+            "address": "80540418",
+            "baseIndex": 4,
+            "label": "Game Mode",
+            "length": 4,
+            "typeIndex": 6,
+            "unsigned": true
+        },
+        {
+            "address": "8054007F",
+            "baseIndex": 0,
+            "label": "No label",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "address": "81615AE0",
+            "baseIndex": 0,
+            "label": "No label",
+            "length": 8,
+            "typeIndex": 5,
+            "unsigned": true
+        },
+        {
+            "address": "8054009B",
+            "baseIndex": 0,
+            "label": "BATTLE MODE",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "address": "805400A3",
+            "baseIndex": 0,
+            "label": "No label",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "address": "802A44A8",
+            "baseIndex": 4,
+            "label": "More Than Alive (Short)",
+            "length": 4,
+            "typeIndex": 6,
+            "unsigned": true
+        },
+        {
+            "address": "802A4644",
+            "baseIndex": 4,
+            "label": "More Than Alive (Full)",
+            "length": 4,
+            "typeIndex": 6,
+            "unsigned": true
+        },
+        {
+            "address": "8054007F",
+            "baseIndex": 0,
+            "label": "No label",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "address": "802AA538",
+            "baseIndex": 4,
+            "label": "HEARTBREAK (Short)",
+            "length": 4,
+            "typeIndex": 6,
+            "unsigned": true
+        },
+        {
+            "address": "802AA6D4",
+            "baseIndex": 4,
+            "label": "HEARTBREAK (FULL)",
+            "length": 4,
+            "typeIndex": 6,
+            "unsigned": true
+        },
+        {
+            "address": "802AC230",
+            "baseIndex": 4,
+            "label": "Get Back Up! (Short)",
+            "length": 4,
+            "typeIndex": 6,
+            "unsigned": true
+        },
+        {
+            "address": "802AD248",
+            "baseIndex": 4,
+            "label": "Take A Step Forward (Short)",
+            "length": 4,
+            "typeIndex": 6,
+            "unsigned": true
+        },
+        {
+            "address": "802AD8B8",
+            "baseIndex": 4,
+            "label": "London EVOLVED Ver.A (short)",
+            "length": 4,
+            "typeIndex": 6,
+            "unsigned": true
+        },
+        {
+            "address": "802B1F88",
+            "baseIndex": 0,
+            "label": "Lesson by DJ (short)",
+            "length": 4,
+            "typeIndex": 6,
+            "unsigned": true
+        },
+        {
+            "address": "8026C85D",
+            "baseIndex": 0,
+            "label": "No label",
+            "length": 3,
+            "typeIndex": 5,
+            "unsigned": true
+        },
+        {
+            "address": "8026C85D",
+            "baseIndex": 0,
+            "label": "No label",
+            "length": 3,
+            "typeIndex": 5,
+            "unsigned": true
+        }
+    ]
+}
