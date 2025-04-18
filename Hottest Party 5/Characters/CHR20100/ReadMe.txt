@@ -1,1 +1,1 @@
-This is Emi's 3D model
+This is Emi's 3D model.
