@@ -1,0 +1,18 @@
+{
+    "watchList": [
+        {
+            "address": "80799C7B",
+            "baseIndex": 0,
+            "label": "Current Mode",
+            "typeIndex": 0,
+            "unsigned": true
+        },
+        {
+            "address": "80799C7F",
+            "baseIndex": 0,
+            "label": "Current Mode",
+            "typeIndex": 0,
+            "unsigned": true
+        }
+    ]
+}
