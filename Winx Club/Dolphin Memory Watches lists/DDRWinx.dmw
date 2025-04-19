@@ -1,0 +1,25 @@
+{
+    "watchList": [
+        {
+            "address": "808B24B3",
+            "baseIndex": 0,
+            "label": "Song Slot ID",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "address": "808B226B",
+            "baseIndex": 0,
+            "label": "Mode ID",
+            "typeIndex": 0,
+            "unsigned": true
+        },
+        {
+            "address": "808B23D3",
+            "baseIndex": 0,
+            "label": "Character ID",
+            "typeIndex": 0,
+            "unsigned": false
+        }
+    ]
+}
