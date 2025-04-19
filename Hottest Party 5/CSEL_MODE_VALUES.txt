@@ -1,5 +1,5 @@
 00 = Boot Screen
-01 = Softlock
+01 = Main Menu
 02 = Dance Mode (Select Number of Players)
 03 = Dance Mode (Select Style)
 04 = My Character
