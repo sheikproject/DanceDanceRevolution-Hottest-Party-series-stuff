@@ -62,6 +62,48 @@
             "label": "Character Slot",
             "typeIndex": 0,
             "unsigned": false
+        },
+        {
+            "address": "808B2ACB",
+            "baseIndex": 0,
+            "label": "[Options] Highlighted Setting",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "address": "808B2ADF",
+            "baseIndex": 0,
+            "label": "[Options] Hand Marker P1",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "address": "808B2AF7",
+            "baseIndex": 0,
+            "label": "[Options] Hand Marker P2",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "address": "808B2B0F",
+            "baseIndex": 0,
+            "label": "[Options] Freeze Arrow P1",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "address": "808B2B27",
+            "baseIndex": 0,
+            "label": "[Options] Freeze Arrow P2",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "address": "808B2B3F",
+            "baseIndex": 0,
+            "label": "[Options] Gimmick",
+            "typeIndex": 0,
+            "unsigned": true
         }
     ]
 }
