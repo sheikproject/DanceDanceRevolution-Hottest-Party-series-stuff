@@ -22,3 +22,7 @@
 33 = Flora Dance Costume
 34 = Tecna Dance Costume
 35 = Layla Dance Costume
+50 = Male Mii (Default)
+51 = Male Mii (Costume 1)
+52 = Female Mii (Default)
+53 = Female Mii (Costume 1)
