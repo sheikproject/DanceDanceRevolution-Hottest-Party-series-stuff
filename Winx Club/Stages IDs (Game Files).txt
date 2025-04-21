@@ -1,0 +1,6 @@
+01 = Alfea
+02 = Alfea Hall
+03 = Red Fountain Stage
+04 = School Library
+05 = Pixie Village (Unused)
+06 = Magix City
