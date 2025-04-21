@@ -8,6 +8,20 @@
             "unsigned": false
         },
         {
+            "address": "808B23B7",
+            "baseIndex": 0,
+            "label": "Stage Slot ID",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "address": "808B3C57",
+            "baseIndex": 0,
+            "label": "Stage Name Tag ID",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
             "address": "808B226B",
             "baseIndex": 0,
             "label": "Mode ID",
@@ -18,6 +32,27 @@
             "address": "808B23D3",
             "baseIndex": 0,
             "label": "Character ID",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "address": "80493A6B",
+            "baseIndex": 0,
+            "label": "Selected Character",
+            "typeIndex": 0,
+            "unsigned": true
+        },
+        {
+            "address": "808B32E7",
+            "baseIndex": 0,
+            "label": "Costume Slot",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "address": "808B32D1",
+            "baseIndex": 0,
+            "label": "Character Slot",
             "typeIndex": 0,
             "unsigned": false
         }
