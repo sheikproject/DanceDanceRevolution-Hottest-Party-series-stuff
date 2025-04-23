@@ -6,7 +6,7 @@ C9  	|	201	|	DISCO	|
 CA  	|	202	|	RUBY	|
 CB  	|	203	|	YUNI	|
 CC  	|	204	|	RAGE	|
-CD    | 205  | Rena |
-CE    | 206  | NAOKI |
-CF    | 207  | jun |
-D0    | 208  | U1 |
+CD    | 205 | Rena  |
+CE    | 206 | NAOKI  |
+CF    | 207 | jun  |
+D0    | 208 | U1  |
