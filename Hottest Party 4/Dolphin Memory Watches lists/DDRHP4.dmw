@@ -1,45 +1,45 @@
 {
     "watchList": [
         {
-            "address": "80567097",
+            "address": "80567094",
             "baseIndex": 0,
             "label": "Character ID",
-            "typeIndex": 0,
-            "unsigned": true
+            "typeIndex": 2,
+            "unsigned": false
         },
         {
-            "address": "8056715B",
+            "address": "80567158",
             "baseIndex": 0,
             "label": "1st Backdancer ID",
-            "typeIndex": 0,
+            "typeIndex": 2,
             "unsigned": false
         },
         {
-            "address": "8056721F",
+            "address": "8056721C",
             "baseIndex": 0,
             "label": "2nd Backdancer ID",
-            "typeIndex": 0,
+            "typeIndex": 2,
             "unsigned": false
         },
         {
-            "address": "814845F7",
+            "address": "814845F4",
             "baseIndex": 0,
             "label": "Selected Character",
-            "typeIndex": 0,
-            "unsigned": true
-        },
-        {
-            "address": "814845FB",
-            "baseIndex": 0,
-            "label": "1st Backdancer Selected",
-            "typeIndex": 0,
+            "typeIndex": 2,
             "unsigned": false
         },
         {
-            "address": "814845FF",
+            "address": "81484608",
+            "baseIndex": 0,
+            "label": "1st Backdancer Selected",
+            "typeIndex": 2,
+            "unsigned": false
+        },
+        {
+            "address": "814845FC",
             "baseIndex": 0,
             "label": "2nd Backdancer Selected",
-            "typeIndex": 0,
+            "typeIndex": 2,
             "unsigned": false
         },
         {
