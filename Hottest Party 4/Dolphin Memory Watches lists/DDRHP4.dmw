@@ -41,6 +41,20 @@
             "label": "2nd Backdancer Selected",
             "typeIndex": 0,
             "unsigned": false
+        },
+        {
+            "address": "81481368",
+            "baseIndex": 0,
+            "label": "Stage Slot ID",
+            "typeIndex": 2,
+            "unsigned": false
+        },
+        {
+            "address": "8091A79C",
+            "baseIndex": 0,
+            "label": "Selected Stage",
+            "typeIndex": 2,
+            "unsigned": false
         }
     ]
 }
