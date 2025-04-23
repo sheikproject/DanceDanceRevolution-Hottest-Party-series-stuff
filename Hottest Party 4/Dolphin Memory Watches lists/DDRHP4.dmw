@@ -22,21 +22,21 @@
             "unsigned": false
         },
         {
-            "address": "814845F4",
+            "address": "814845B4",
             "baseIndex": 0,
             "label": "Selected Character",
             "typeIndex": 2,
             "unsigned": false
         },
         {
-            "address": "81484608",
+            "address": "814845B8",
             "baseIndex": 0,
             "label": "1st Backdancer Selected",
             "typeIndex": 2,
             "unsigned": false
         },
         {
-            "address": "814845FC",
+            "address": "814845BC",
             "baseIndex": 0,
             "label": "2nd Backdancer Selected",
             "typeIndex": 2,
