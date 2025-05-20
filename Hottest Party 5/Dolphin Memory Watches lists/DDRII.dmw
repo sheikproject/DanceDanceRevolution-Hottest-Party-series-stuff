@@ -92,11 +92,11 @@
             "unsigned": false
         },
         {
-            "address": "805419A3",
+            "address": "805419A0",
             "baseIndex": 0,
             "label": "Game Style",
-            "typeIndex": 0,
-            "unsigned": true
+            "typeIndex": 2,
+            "unsigned": false
         },
         {
             "expanded": true,
@@ -133,6 +133,20 @@
                     "address": "8148ED14",
                     "baseIndex": 0,
                     "label": "Main Menu Mode Highlighted",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8148F068",
+                    "baseIndex": 0,
+                    "label": "Title Screen Timer",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
+                    "address": "8148F07C",
+                    "baseIndex": 0,
+                    "label": "Title Screen \"Press Start\"",
                     "typeIndex": 2,
                     "unsigned": false
                 },
