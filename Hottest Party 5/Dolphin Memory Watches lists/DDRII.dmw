@@ -162,6 +162,7 @@
             "groupName": "Modes"
         },
         {
+            "expanded": true,
             "groupEntries": [
                 {
                     "address": "8053EB78",
@@ -195,95 +196,129 @@
             "groupName": "Songs Stuff"
         },
         {
-            "address": "8068A924",
-            "baseIndex": 0,
-            "label": "Total Arrows",
-            "typeIndex": 2,
-            "unsigned": false
-        },
-        {
-            "address": "8068A920",
-            "baseIndex": 0,
-            "label": "Song MARVELOUS",
-            "typeIndex": 2,
-            "unsigned": false
-        },
-        {
-            "address": "8068A91C",
-            "baseIndex": 0,
-            "label": "Song PERFECTS",
-            "typeIndex": 2,
-            "unsigned": false
-        },
-        {
-            "address": "8068A968",
-            "baseIndex": 0,
-            "label": "Song COMBO MAX",
-            "typeIndex": 2,
-            "unsigned": false
-        },
-        {
-            "address": "8068A8E8",
-            "baseIndex": 0,
-            "label": "Song Score",
-            "typeIndex": 2,
-            "unsigned": false
-        },
-        {
-            "address": "8068A964",
-            "baseIndex": 0,
-            "label": "Song Actual Combo",
-            "typeIndex": 2,
-            "unsigned": false
-        },
-        {
-            "address": "8068A918",
-            "baseIndex": 0,
-            "label": "Song GREATS",
-            "typeIndex": 2,
-            "unsigned": false
-        },
-        {
-            "address": "8068A914",
-            "baseIndex": 0,
-            "label": "Song GOODS",
-            "typeIndex": 2,
-            "unsigned": false
-        },
-        {
-            "address": "8068A90C",
-            "baseIndex": 0,
-            "label": "Song MISSES",
-            "typeIndex": 2,
-            "unsigned": false
-        },
-        {
-            "address": "8068A95C",
-            "baseIndex": 0,
-            "label": "Actual MAX Combo",
-            "typeIndex": 2,
-            "unsigned": false
-        },
-        {
-            "address": "8068A991",
-            "baseIndex": 0,
-            "label": "Combo Related",
-            "typeIndex": 2,
-            "unsigned": false
-        },
-        {
-            "address": "8068A96B",
-            "baseIndex": 0,
-            "label": "Combo Related",
-            "typeIndex": 0,
-            "unsigned": true
-        },
-        {
-            "address": "808B5330",
-            "baseIndex": 0,
-            "label": "Song Actual Combo?",
-            "typeIndex": 2,
-            "unsigned": false
+            "expanded": true,
+            "groupEntries": [
+                {
+                    "address": "8068A924",
+                    "baseIndex": 0,
+                    "label": "Total Arrows",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8068A964",
+                    "baseIndex": 0,
+                    "label": "Song Freeze Hold",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8068A954",
+                    "baseIndex": 0,
+                    "label": "Song Freeze O.K.",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8068A958",
+                    "baseIndex": 0,
+                    "label": "Song Total Freeze Arrows",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8068A94C",
+                    "baseIndex": 0,
+                    "label": "Song Missed Freeze Arrows",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8068A920",
+                    "baseIndex": 0,
+                    "label": "Song MARVELOUS",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8068A91C",
+                    "baseIndex": 0,
+                    "label": "Song PERFECTS",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8068A968",
+                    "baseIndex": 0,
+                    "label": "Song COMBO MAX",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8068A8E8",
+                    "baseIndex": 0,
+                    "label": "Song Score",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8068A964",
+                    "baseIndex": 0,
+                    "label": "Song Actual Combo",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8068A918",
+                    "baseIndex": 0,
+                    "label": "Song GREATS",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8068A914",
+                    "baseIndex": 0,
+                    "label": "Song GOODS",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8068A90C",
+                    "baseIndex": 0,
+                    "label": "Song MISSES",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8068A95C",
+                    "baseIndex": 0,
+                    "label": "Actual MAX Combo",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8068A991",
+                    "baseIndex": 0,
+                    "label": "Combo Related",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8068A96B",
+                    "baseIndex": 0,
+                    "label": "Combo Related",
+                    "typeIndex": 0,
+                    "unsigned": true
+                },
+                {
+                    "address": "808B5330",
+                    "baseIndex": 0,
+                    "label": "Song Actual Combo?",
+                    "typeIndex": 2,
+                    "unsigned": false
+                }
+            ],
+            "groupName": "In-Game Scoring"
         },
         {
             "address": "8054007B",
