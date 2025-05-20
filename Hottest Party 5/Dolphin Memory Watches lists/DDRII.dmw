@@ -1,7 +1,6 @@
 {
     "watchList": [
         {
-            "expanded": true,
             "groupEntries": [
                 {
                     "address": "8148EC00",
@@ -162,8 +161,21 @@
             "groupName": "Modes"
         },
         {
-            "expanded": true,
             "groupEntries": [
+                {
+                    "address": "808A20A8",
+                    "baseIndex": 0,
+                    "label": "Song Timer?",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A456C",
+                    "baseIndex": 0,
+                    "label": "Song Beat?",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
                 {
                     "address": "8053EB78",
                     "baseIndex": 0,
@@ -196,7 +208,6 @@
             "groupName": "Songs Stuff"
         },
         {
-            "expanded": true,
             "groupEntries": [
                 {
                     "address": "8068A924",
