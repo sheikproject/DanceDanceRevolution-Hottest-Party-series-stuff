@@ -1,6 +1,7 @@
 {
     "watchList": [
         {
+            "expanded": true,
             "groupEntries": [
                 {
                     "address": "8148EC00",
@@ -63,6 +64,55 @@
                     "baseIndex": 0,
                     "label": "Selected Costume",
                     "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2260",
+                    "baseIndex": 0,
+                    "label": "Character Mii Head ",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A227C",
+                    "baseIndex": 0,
+                    "label": "Selected Backdancer",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2280",
+                    "baseIndex": 0,
+                    "label": "Backdancer Costume",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2290",
+                    "baseIndex": 0,
+                    "label": "Backdancer Mii Head",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A22AC",
+                    "baseIndex": 0,
+                    "label": "Selected Backdancer 2",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A22B0",
+                    "baseIndex": 0,
+                    "label": "Backdancer 2 Costume",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A22C0",
+                    "baseIndex": 0,
+                    "label": "Backdancer 2 Mii Head",
+                    "typeIndex": 2,
                     "unsigned": false
                 },
                 {
@@ -160,6 +210,7 @@
             "groupName": "Modes"
         },
         {
+            "expanded": true,
             "groupEntries": [
                 {
                     "address": "808A2B1C",
@@ -194,6 +245,20 @@
                     "baseIndex": 0,
                     "label": "Song ID (Course)",
                     "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2254",
+                    "baseIndex": 0,
+                    "label": "Difficulty Highlighted",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A21F8",
+                    "baseIndex": 0,
+                    "label": "Song Exit Timer",
+                    "typeIndex": 3,
                     "unsigned": false
                 },
                 {
@@ -1761,6 +1826,13 @@
             "baseIndex": 4,
             "label": "DDR POINTS",
             "typeIndex": 2,
+            "unsigned": true
+        },
+        {
+            "address": "81445470",
+            "baseIndex": 0,
+            "label": "No label",
+            "typeIndex": 0,
             "unsigned": true
         }
     ]
