@@ -118,28 +118,42 @@
                 {
                     "address": "8053F748",
                     "baseIndex": 0,
-                    "label": "Selected Character (Gameplay)",
-                    "typeIndex": 2,
-                    "unsigned": false
-                },
-                {
-                    "address": "8053F9FC",
-                    "baseIndex": 0,
                     "label": "Character (Gameplay)",
                     "typeIndex": 2,
                     "unsigned": false
                 },
                 {
-                    "address": "8053FA00",
+                    "address": "8053F74C",
                     "baseIndex": 0,
                     "label": "Character Costume (Gameplay)",
                     "typeIndex": 2,
                     "unsigned": false
                 },
                 {
-                    "address": "8053FA0C",
+                    "address": "8053F758",
                     "baseIndex": 0,
                     "label": "Character Mii Head (Gameplay)",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8053F9FC",
+                    "baseIndex": 0,
+                    "label": "Character (Boss Songs)",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8053FA00",
+                    "baseIndex": 0,
+                    "label": "Character Costume (Boss Songs)",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8053FA0C",
+                    "baseIndex": 0,
+                    "label": "Character Mii Head (Boss Songs)",
                     "typeIndex": 2,
                     "unsigned": false
                 },
@@ -1888,13 +1902,6 @@
             "baseIndex": 4,
             "label": "DDR POINTS",
             "typeIndex": 2,
-            "unsigned": true
-        },
-        {
-            "address": "81445470",
-            "baseIndex": 0,
-            "label": "No label",
-            "typeIndex": 0,
             "unsigned": true
         }
     ]
