@@ -121,6 +121,69 @@
                     "label": "Selected Character (Gameplay)",
                     "typeIndex": 2,
                     "unsigned": false
+                },
+                {
+                    "address": "8053F9FC",
+                    "baseIndex": 0,
+                    "label": "Character (Gameplay)",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8053FA00",
+                    "baseIndex": 0,
+                    "label": "Character Costume (Gameplay)",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8053FA0C",
+                    "baseIndex": 0,
+                    "label": "Character Mii Head (Gameplay)",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8053FA28",
+                    "baseIndex": 0,
+                    "label": "Backdancer (Gameplay)",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8053FA2C",
+                    "baseIndex": 0,
+                    "label": "Backdancer Costume (Gameplay)",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8053FA38",
+                    "baseIndex": 0,
+                    "label": "Backdancer Mii Head (Gameplay)",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8053FA54",
+                    "baseIndex": 0,
+                    "label": "Backdancer 2 (Gameplay)",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8053FA58",
+                    "baseIndex": 0,
+                    "label": "Backdancer 2 Costume (Gameplay)",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8053FA64",
+                    "baseIndex": 0,
+                    "label": "Backdancer 2 Mii Head (Gameplay)",
+                    "typeIndex": 2,
+                    "unsigned": false
                 }
             ],
             "groupName": "Character Select"
@@ -210,7 +273,6 @@
             "groupName": "Modes"
         },
         {
-            "expanded": true,
             "groupEntries": [
                 {
                     "address": "808A2B1C",
