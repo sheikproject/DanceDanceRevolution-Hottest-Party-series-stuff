@@ -98,7 +98,6 @@
             "unsigned": false
         },
         {
-            "expanded": true,
             "groupEntries": [
                 {
                     "address": "808A219C",
@@ -163,6 +162,13 @@
         {
             "groupEntries": [
                 {
+                    "address": "808A2B1C",
+                    "baseIndex": 0,
+                    "label": "Songlist Mode?",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
                     "address": "808A20A8",
                     "baseIndex": 0,
                     "label": "Song Timer?",
@@ -206,6 +212,1418 @@
                 }
             ],
             "groupName": "Songs Stuff"
+        },
+        {
+            "groupEntries": [
+                {
+                    "address": "808A2E54",
+                    "baseIndex": 0,
+                    "label": "Songs Available",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2E58",
+                    "baseIndex": 0,
+                    "label": "Song Slot 1",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2E5C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 2",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2E60",
+                    "baseIndex": 0,
+                    "label": "Song Slot 3",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2E64",
+                    "baseIndex": 0,
+                    "label": "Song Slot 4",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2E68",
+                    "baseIndex": 0,
+                    "label": "Song Slot 5",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2E6C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 6",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2E70",
+                    "baseIndex": 0,
+                    "label": "Song Slot 7",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2E74",
+                    "baseIndex": 0,
+                    "label": "Song Slot 8",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2E78",
+                    "baseIndex": 0,
+                    "label": "Song Slot 9",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2E7C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 10",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2E80",
+                    "baseIndex": 0,
+                    "label": "Song Slot 11",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2E84",
+                    "baseIndex": 0,
+                    "label": "Song Slot 12",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2E88",
+                    "baseIndex": 0,
+                    "label": "Song Slot 13",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2E8C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 14",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2E90",
+                    "baseIndex": 0,
+                    "label": "Song Slot 15",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2E94",
+                    "baseIndex": 0,
+                    "label": "Song Slot 16",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2E98",
+                    "baseIndex": 0,
+                    "label": "Song Slot 17",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2E9C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 18",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2EA0",
+                    "baseIndex": 0,
+                    "label": "Song Slot 19",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2EA4",
+                    "baseIndex": 0,
+                    "label": "Song Slot 20",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2EA8",
+                    "baseIndex": 0,
+                    "label": "Song Slot 21",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2EAC",
+                    "baseIndex": 0,
+                    "label": "Song Slot 22",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2EB0",
+                    "baseIndex": 0,
+                    "label": "Song Slot 23",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2EB4",
+                    "baseIndex": 0,
+                    "label": "Song Slot 24",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2EB8",
+                    "baseIndex": 0,
+                    "label": "Song Slot 25",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2EBC",
+                    "baseIndex": 0,
+                    "label": "Song Slot 26",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2EC0",
+                    "baseIndex": 0,
+                    "label": "Song Slot 27",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2EC4",
+                    "baseIndex": 0,
+                    "label": "Song Slot 28",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2EC8",
+                    "baseIndex": 0,
+                    "label": "Song Slot 29",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2ECC",
+                    "baseIndex": 0,
+                    "label": "Song Slot 30",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2ED0",
+                    "baseIndex": 0,
+                    "label": "Song Slot 31",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2ED4",
+                    "baseIndex": 0,
+                    "label": "Song Slot 32",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2ED8",
+                    "baseIndex": 0,
+                    "label": "Song Slot 33",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2EDC",
+                    "baseIndex": 0,
+                    "label": "Song Slot 34",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2EE0",
+                    "baseIndex": 0,
+                    "label": "Song Slot 35",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2EE4",
+                    "baseIndex": 0,
+                    "label": "Song Slot 36",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2EE8",
+                    "baseIndex": 0,
+                    "label": "Song Slot 37",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2EEC",
+                    "baseIndex": 0,
+                    "label": "Song Slot 38",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2EF0",
+                    "baseIndex": 0,
+                    "label": "Song Slot 39",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2EF4",
+                    "baseIndex": 0,
+                    "label": "Song Slot 40",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2EF8",
+                    "baseIndex": 0,
+                    "label": "Song Slot 41",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2EFC",
+                    "baseIndex": 0,
+                    "label": "Song Slot 42",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F00",
+                    "baseIndex": 0,
+                    "label": "Song Slot 43",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F04",
+                    "baseIndex": 0,
+                    "label": "Song Slot 44",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F08",
+                    "baseIndex": 0,
+                    "label": "Song Slot 45",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F0C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 46",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F10",
+                    "baseIndex": 0,
+                    "label": "Song Slot 47",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F14",
+                    "baseIndex": 0,
+                    "label": "Song Slot 48",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F18",
+                    "baseIndex": 0,
+                    "label": "Song Slot 49",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F1C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 50",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F20",
+                    "baseIndex": 0,
+                    "label": "Song Slot 51",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F24",
+                    "baseIndex": 0,
+                    "label": "Song Slot 52",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F28",
+                    "baseIndex": 0,
+                    "label": "Song Slot 53",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F2C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 54",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F30",
+                    "baseIndex": 0,
+                    "label": "Song Slot 55",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F34",
+                    "baseIndex": 0,
+                    "label": "Song Slot 56",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F38",
+                    "baseIndex": 0,
+                    "label": "Song Slot 57",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F3C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 58",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F40",
+                    "baseIndex": 0,
+                    "label": "Song Slot 59",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F44",
+                    "baseIndex": 0,
+                    "label": "Song Slot 60",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F48",
+                    "baseIndex": 0,
+                    "label": "Song Slot 61",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F4C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 62",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F50",
+                    "baseIndex": 0,
+                    "label": "Song Slot 63",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F54",
+                    "baseIndex": 0,
+                    "label": "Song Slot 64",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F58",
+                    "baseIndex": 0,
+                    "label": "Song Slot 65",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F5C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 66",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F60",
+                    "baseIndex": 0,
+                    "label": "Song Slot 67",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F64",
+                    "baseIndex": 0,
+                    "label": "Song Slot 68",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F68",
+                    "baseIndex": 0,
+                    "label": "Song Slot 69",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F6C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 70",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F70",
+                    "baseIndex": 0,
+                    "label": "Song Slot 71",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F74",
+                    "baseIndex": 0,
+                    "label": "Song Slot 72",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F78",
+                    "baseIndex": 0,
+                    "label": "Song Slot 73",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F7C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 74",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F80",
+                    "baseIndex": 0,
+                    "label": "Song Slot 75",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F84",
+                    "baseIndex": 0,
+                    "label": "Song Slot 76",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F88",
+                    "baseIndex": 0,
+                    "label": "Song Slot 77",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F8C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 78",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F90",
+                    "baseIndex": 0,
+                    "label": "Song Slot 79",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F94",
+                    "baseIndex": 0,
+                    "label": "Song Slot 80",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F98",
+                    "baseIndex": 0,
+                    "label": "Song Slot 81",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2F9C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 82",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2FA0",
+                    "baseIndex": 0,
+                    "label": "Song Slot 83",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2FA4",
+                    "baseIndex": 0,
+                    "label": "Song Slot 84",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2FA8",
+                    "baseIndex": 0,
+                    "label": "Song Slot 85",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2FAC",
+                    "baseIndex": 0,
+                    "label": "Song Slot 86",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2FB0",
+                    "baseIndex": 0,
+                    "label": "Song Slot 87",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2FB4",
+                    "baseIndex": 0,
+                    "label": "Song Slot 88",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2FB8",
+                    "baseIndex": 0,
+                    "label": "Song Slot 89",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2FBC",
+                    "baseIndex": 0,
+                    "label": "Song Slot 90",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2FC0",
+                    "baseIndex": 0,
+                    "label": "Song Slot 91",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2FC4",
+                    "baseIndex": 0,
+                    "label": "Song Slot 92",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2FC8",
+                    "baseIndex": 0,
+                    "label": "Song Slot 93",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2FCC",
+                    "baseIndex": 0,
+                    "label": "Song Slot 94",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2FD0",
+                    "baseIndex": 0,
+                    "label": "Song Slot 95",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2FD4",
+                    "baseIndex": 0,
+                    "label": "Song Slot 96",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2FD8",
+                    "baseIndex": 0,
+                    "label": "Song Slot 97",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2FDC",
+                    "baseIndex": 0,
+                    "label": "Song Slot 98",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2FE0",
+                    "baseIndex": 0,
+                    "label": "Song Slot 99",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2FE4",
+                    "baseIndex": 0,
+                    "label": "Song Slot 100",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2FE8",
+                    "baseIndex": 0,
+                    "label": "Song Slot 101",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2FEC",
+                    "baseIndex": 0,
+                    "label": "Song Slot 102",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2FF0",
+                    "baseIndex": 0,
+                    "label": "Song Slot 103",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2FF4",
+                    "baseIndex": 0,
+                    "label": "Song Slot 104",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2FF8",
+                    "baseIndex": 0,
+                    "label": "Song Slot 105",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A2FFC",
+                    "baseIndex": 0,
+                    "label": "Song Slot 106",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3000",
+                    "baseIndex": 0,
+                    "label": "Song Slot 107",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3004",
+                    "baseIndex": 0,
+                    "label": "Song Slot 108",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3008",
+                    "baseIndex": 0,
+                    "label": "Song Slot 109",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A300C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 110",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3010",
+                    "baseIndex": 0,
+                    "label": "Song Slot 111",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3014",
+                    "baseIndex": 0,
+                    "label": "Song Slot 112",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3018",
+                    "baseIndex": 0,
+                    "label": "Song Slot 113",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A301C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 114",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3020",
+                    "baseIndex": 0,
+                    "label": "Song Slot 115",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3024",
+                    "baseIndex": 0,
+                    "label": "Song Slot 116",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3028",
+                    "baseIndex": 0,
+                    "label": "Song Slot 117",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A302C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 118",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3030",
+                    "baseIndex": 0,
+                    "label": "Song Slot 119",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3034",
+                    "baseIndex": 0,
+                    "label": "Song Slot 120",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3038",
+                    "baseIndex": 0,
+                    "label": "Song Slot 121",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A303C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 122",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3040",
+                    "baseIndex": 0,
+                    "label": "Song Slot 123",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3044",
+                    "baseIndex": 0,
+                    "label": "Song Slot 124",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3048",
+                    "baseIndex": 0,
+                    "label": "Song Slot 125",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A304C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 126",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3050",
+                    "baseIndex": 0,
+                    "label": "Song Slot 127",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3054",
+                    "baseIndex": 0,
+                    "label": "Song Slot 128",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3058",
+                    "baseIndex": 0,
+                    "label": "Song Slot 129",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A305C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 130",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3060",
+                    "baseIndex": 0,
+                    "label": "Song Slot 131",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3064",
+                    "baseIndex": 0,
+                    "label": "Song Slot 132",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3068",
+                    "baseIndex": 0,
+                    "label": "Song Slot 133",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A306C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 134",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3070",
+                    "baseIndex": 0,
+                    "label": "Song Slot 135",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3074",
+                    "baseIndex": 0,
+                    "label": "Song Slot 136",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3078",
+                    "baseIndex": 0,
+                    "label": "Song Slot 137",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A307C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 138",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3080",
+                    "baseIndex": 0,
+                    "label": "Song Slot 139",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3084",
+                    "baseIndex": 0,
+                    "label": "Song Slot 140",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3088",
+                    "baseIndex": 0,
+                    "label": "Song Slot 141",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A308C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 142",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3090",
+                    "baseIndex": 0,
+                    "label": "Song Slot 143",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3094",
+                    "baseIndex": 0,
+                    "label": "Song Slot 144",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3098",
+                    "baseIndex": 0,
+                    "label": "Song Slot 145",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A309C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 146",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A30A0",
+                    "baseIndex": 0,
+                    "label": "Song Slot 147",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A30A4",
+                    "baseIndex": 0,
+                    "label": "Song Slot 148",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A30A8",
+                    "baseIndex": 0,
+                    "label": "Song Slot 149",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A30AC",
+                    "baseIndex": 0,
+                    "label": "Song Slot 150",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A30B0",
+                    "baseIndex": 0,
+                    "label": "Song Slot 151",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A30B4",
+                    "baseIndex": 0,
+                    "label": "Song Slot 152",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A30B8",
+                    "baseIndex": 0,
+                    "label": "Song Slot 153",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A30BC",
+                    "baseIndex": 0,
+                    "label": "Song Slot 154",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A30C0",
+                    "baseIndex": 0,
+                    "label": "Song Slot 155",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A30C4",
+                    "baseIndex": 0,
+                    "label": "Song Slot 156",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A30C8",
+                    "baseIndex": 0,
+                    "label": "Song Slot 157",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A30CC",
+                    "baseIndex": 0,
+                    "label": "Song Slot 158",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A30D0",
+                    "baseIndex": 0,
+                    "label": "Song Slot 159",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A30D4",
+                    "baseIndex": 0,
+                    "label": "Song Slot 160",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A30D8",
+                    "baseIndex": 0,
+                    "label": "Song Slot 161",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A30DC",
+                    "baseIndex": 0,
+                    "label": "Song Slot 162",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A30E0",
+                    "baseIndex": 0,
+                    "label": "Song Slot 163",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A30E4",
+                    "baseIndex": 0,
+                    "label": "Song Slot 164",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A30E8",
+                    "baseIndex": 0,
+                    "label": "Song Slot 165",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A30EC",
+                    "baseIndex": 0,
+                    "label": "Song Slot 166",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A30F0",
+                    "baseIndex": 0,
+                    "label": "Song Slot 167",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A30F4",
+                    "baseIndex": 0,
+                    "label": "Song Slot 168",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A30F8",
+                    "baseIndex": 0,
+                    "label": "Song Slot 169",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A30FC",
+                    "baseIndex": 0,
+                    "label": "Song Slot 170",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3100",
+                    "baseIndex": 0,
+                    "label": "Song Slot 171",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3104",
+                    "baseIndex": 0,
+                    "label": "Song Slot 172",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3108",
+                    "baseIndex": 0,
+                    "label": "Song Slot 173",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A310C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 174",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3110",
+                    "baseIndex": 0,
+                    "label": "Song Slot 175",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3114",
+                    "baseIndex": 0,
+                    "label": "Song Slot 176",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3118",
+                    "baseIndex": 0,
+                    "label": "Song Slot 177",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A311C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 178",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3120",
+                    "baseIndex": 0,
+                    "label": "Song Slot 179",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3124",
+                    "baseIndex": 0,
+                    "label": "Song Slot 180",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3128",
+                    "baseIndex": 0,
+                    "label": "Song Slot 181",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A312C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 182",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3130",
+                    "baseIndex": 0,
+                    "label": "Song Slot 183",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3134",
+                    "baseIndex": 0,
+                    "label": "Song Slot 184",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3138",
+                    "baseIndex": 0,
+                    "label": "Song Slot 185",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A313C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 186",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3140",
+                    "baseIndex": 0,
+                    "label": "Song Slot 187",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3144",
+                    "baseIndex": 0,
+                    "label": "Song Slot 188",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3148",
+                    "baseIndex": 0,
+                    "label": "Song Slot 189",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A314C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 190",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3150",
+                    "baseIndex": 0,
+                    "label": "Song Slot 191",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3154",
+                    "baseIndex": 0,
+                    "label": "Song Slot 192",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3158",
+                    "baseIndex": 0,
+                    "label": "Song Slot 193",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A315C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 194",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3160",
+                    "baseIndex": 0,
+                    "label": "Song Slot 195",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3164",
+                    "baseIndex": 0,
+                    "label": "Song Slot 196",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3168",
+                    "baseIndex": 0,
+                    "label": "Song Slot 197",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A316C",
+                    "baseIndex": 0,
+                    "label": "Song Slot 198",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3170",
+                    "baseIndex": 0,
+                    "label": "Song Slot 199",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "808A3174",
+                    "baseIndex": 0,
+                    "label": "Song Slot 200",
+                    "typeIndex": 2,
+                    "unsigned": false
+                }
+            ],
+            "groupName": "Song Slots"
         },
         {
             "groupEntries": [
@@ -315,11 +1733,11 @@
                     "unsigned": false
                 },
                 {
-                    "address": "8068A96B",
+                    "address": "8068A968",
                     "baseIndex": 0,
                     "label": "Combo Related",
-                    "typeIndex": 0,
-                    "unsigned": true
+                    "typeIndex": 2,
+                    "unsigned": false
                 },
                 {
                     "address": "808B5330",
