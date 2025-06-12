@@ -1,9 +1,37 @@
 {
     "watchList": [
         {
-            "address": "808B24B3",
+            "address": "808B5F13",
             "baseIndex": 0,
             "label": "Song Slot ID",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "address": "808B14E3",
+            "baseIndex": 0,
+            "label": "Song Audio ID ",
+            "typeIndex": 0,
+            "unsigned": true
+        },
+        {
+            "address": "808B24B3",
+            "baseIndex": 0,
+            "label": "Song Banner ID",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "address": "808B5F17",
+            "baseIndex": 0,
+            "label": "Difficulty ID",
+            "typeIndex": 0,
+            "unsigned": false
+        },
+        {
+            "address": "808B2502",
+            "baseIndex": 0,
+            "label": "Song is New?",
             "typeIndex": 0,
             "unsigned": false
         },
@@ -64,46 +92,51 @@
             "unsigned": false
         },
         {
-            "address": "808B2ACB",
-            "baseIndex": 0,
-            "label": "[Options] Highlighted Setting",
-            "typeIndex": 0,
-            "unsigned": false
-        },
-        {
-            "address": "808B2ADF",
-            "baseIndex": 0,
-            "label": "[Options] Hand Marker P1",
-            "typeIndex": 0,
-            "unsigned": false
-        },
-        {
-            "address": "808B2AF7",
-            "baseIndex": 0,
-            "label": "[Options] Hand Marker P2",
-            "typeIndex": 0,
-            "unsigned": false
-        },
-        {
-            "address": "808B2B0F",
-            "baseIndex": 0,
-            "label": "[Options] Freeze Arrow P1",
-            "typeIndex": 0,
-            "unsigned": false
-        },
-        {
-            "address": "808B2B27",
-            "baseIndex": 0,
-            "label": "[Options] Freeze Arrow P2",
-            "typeIndex": 0,
-            "unsigned": false
-        },
-        {
-            "address": "808B2B3F",
-            "baseIndex": 0,
-            "label": "[Options] Gimmick",
-            "typeIndex": 0,
-            "unsigned": true
+            "groupEntries": [
+                {
+                    "address": "808B2ACB",
+                    "baseIndex": 0,
+                    "label": "[Options] Highlighted Setting",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "address": "808B2ADF",
+                    "baseIndex": 0,
+                    "label": "[Options] Hand Marker P1",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "address": "808B2AF7",
+                    "baseIndex": 0,
+                    "label": "[Options] Hand Marker P2",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "address": "808B2B0F",
+                    "baseIndex": 0,
+                    "label": "[Options] Freeze Arrow P1",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "address": "808B2B27",
+                    "baseIndex": 0,
+                    "label": "[Options] Freeze Arrow P2",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "address": "808B2B3F",
+                    "baseIndex": 0,
+                    "label": "[Options] Gimmick",
+                    "typeIndex": 0,
+                    "unsigned": true
+                }
+            ],
+            "groupName": "Options"
         }
     ]
 }
