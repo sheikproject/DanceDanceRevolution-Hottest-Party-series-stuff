@@ -64,8 +64,8 @@ Hex	|	Decimal	|	Song	| Length
 79  	|	121	|	Unused	| Full  |
 7A  	|	122	|	smooooch ・∀・	| Short  |
 7B  	|	123	|	Unused	| Full  |
-7C  	|	124	|	ZETA ~The World of Prime Numbers and the Transcendental Being~	| Short  |
-7D  	|	125	|	ZETA ~The World of Prime Numbers and the Transcendental Being~	| Full  |
+7C  	|	124	|	ZETA ~ The World of Prime Numbers and the Transcendental Being ~	| Short  |
+7D  	|	125	|	ZETA ~ The World of Prime Numbers and the Transcendental Being ~	| Full  |
 7E  	|	126	|	SAY A PRAYER	| Short  |
 7F  	|	127	|	SAY A PRAYER	| Full  |
 80  	|	128	|	ALL THROUGH THE NIGHT (Unused)	| Short  |
