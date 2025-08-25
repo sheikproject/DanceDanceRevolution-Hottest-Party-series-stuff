@@ -4,8 +4,8 @@ Hex	|	Decimal	|	Sprite	|
 -----	|	-----	|	-----	|
 00  	|	00	|	Name Box	|
 01  	|	01	|	Text Box	|
-02  	|	02	|	Right Frame	|
-03  	|	03	|	Left Frame	|
+02  	|	02	|	Left Frame	|
+03  	|	03	|	Right Frame	|
 04  	|	04	|	Bloom (Thinking)	|
 05  	|	05	|	Bloom (Happy)	|
 06    | 06  | Bloom (Surprised) |
