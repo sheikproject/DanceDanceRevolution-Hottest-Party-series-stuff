@@ -22,23 +22,58 @@
             "unsigned": false
         },
         {
-            "address": "814845B4",
+            "address": "8091A7AC",
             "baseIndex": 0,
             "label": "Selected Character",
             "typeIndex": 2,
             "unsigned": false
         },
         {
-            "address": "814845B8",
+            "address": "8091A7B0",
+            "baseIndex": 0,
+            "label": "Selected Costume",
+            "typeIndex": 2,
+            "unsigned": false
+        },
+        {
+            "address": "8091A7DC",
             "baseIndex": 0,
             "label": "1st Backdancer Selected",
             "typeIndex": 2,
             "unsigned": false
         },
         {
-            "address": "814845BC",
+            "address": "8091A7E0",
+            "baseIndex": 0,
+            "label": "1st Backdancer (Selected Costume)",
+            "typeIndex": 2,
+            "unsigned": false
+        },
+        {
+            "address": "8091A80C",
             "baseIndex": 0,
             "label": "2nd Backdancer Selected",
+            "typeIndex": 2,
+            "unsigned": false
+        },
+        {
+            "address": "8091A810",
+            "baseIndex": 0,
+            "label": "2nd Backdancer (Selected Costume)",
+            "typeIndex": 2,
+            "unsigned": false
+        },
+        {
+            "address": "8091A83C",
+            "baseIndex": 0,
+            "label": "(Unused) 3rd Backdancer Selected",
+            "typeIndex": 2,
+            "unsigned": false
+        },
+        {
+            "address": "8091A840",
+            "baseIndex": 0,
+            "label": "3rd Backdancer (Selected Costume)",
             "typeIndex": 2,
             "unsigned": false
         },
@@ -53,6 +88,13 @@
             "address": "8091A79C",
             "baseIndex": 0,
             "label": "Selected Stage",
+            "typeIndex": 2,
+            "unsigned": false
+        },
+        {
+            "address": "8091A798",
+            "baseIndex": 0,
+            "label": "Song ID",
             "typeIndex": 2,
             "unsigned": false
         }
