@@ -102,6 +102,13 @@
             "expanded": true,
             "groupEntries": [
                 {
+                    "address": "8091AB7C",
+                    "baseIndex": 0,
+                    "label": "Vertical Up/Down Directions",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
                     "address": "8091AB84",
                     "baseIndex": 0,
                     "label": "Zoom Related",
