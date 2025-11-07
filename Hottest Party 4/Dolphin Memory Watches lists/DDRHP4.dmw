@@ -97,6 +97,95 @@
             "label": "Song ID",
             "typeIndex": 2,
             "unsigned": false
+        },
+        {
+            "expanded": true,
+            "groupEntries": [
+                {
+                    "address": "8091AB84",
+                    "baseIndex": 0,
+                    "label": "Zoom Related",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
+                    "address": "8091AC04",
+                    "baseIndex": 0,
+                    "label": "Zoom Related",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
+                    "address": "8091AC18",
+                    "baseIndex": 0,
+                    "label": "Zoom Related",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
+                    "address": "8091AEB4",
+                    "baseIndex": 0,
+                    "label": "Zoom Related",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
+                    "address": "8091AEC8",
+                    "baseIndex": 0,
+                    "label": "Zoom Related",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
+                    "address": "8091AEF4",
+                    "baseIndex": 0,
+                    "label": "Zoom Related",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
+                    "address": "8091ACA0",
+                    "baseIndex": 0,
+                    "label": "Camera Animation File",
+                    "typeIndex": 2,
+                    "unsigned": false
+                }
+            ],
+            "groupName": "Camera Related Stuff"
+        },
+        {
+            "expanded": true,
+            "groupEntries": [
+                {
+                    "address": "8091AB0C",
+                    "baseIndex": 0,
+                    "label": "Dance Routine Animation Frame",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8091AC44",
+                    "baseIndex": 0,
+                    "label": "Animation (.zab) File?",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8091AC48",
+                    "baseIndex": 0,
+                    "label": "Animation (.zab) File?",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8091AC4C",
+                    "baseIndex": 0,
+                    "label": "Animation (.zab) File?",
+                    "typeIndex": 2,
+                    "unsigned": false
+                }
+            ],
+            "groupName": "Dance Routine Related"
         }
     ]
 }
