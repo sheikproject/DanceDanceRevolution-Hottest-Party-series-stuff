@@ -1,0 +1,46 @@
+ALL 
+OFF 
+NO BOOING 
+EASIEST 
+VERY EASY 
+EASY  
+MEDIUM  
+MEDIUM HARD 
+HARD  
+VERY HARD 
+HARDEST 
+NORMAL  
+END OF SONG 
+ON  
+OFF 
+DEFAULT 
+BELOW NORMAL  
+MIRROR  
+LEFT  
+RIGHT 
+SHUFFLE 
+Music is now set to OFF.  
+MUSIC SPEED is now 1.0. 
+CALORIES BURNED 
+PLAY TIME 
+NO SETTING  
+TARGET  
+Kcal  
+min 
+----- 
+x0.5  
+x0.6  
+x0.7  
+x0.8  
+x0.9  
+x1.0  
+x1  
+x1.5  
+x2  
+x3  
+x5  
+x8  
+x?  
+Overwrite save data?  
+Change the settings back to the default?  
+Changed the settings back to the default.
