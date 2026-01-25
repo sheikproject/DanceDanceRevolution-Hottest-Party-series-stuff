@@ -1,0 +1,227 @@
+Press 1 Button and 2 Button to add Wii Remote.  
+
+To use DanceDanceRevolution Controller, connect device to Wii console.  
+
+For 1 player. 
+Normal gameplay.  
+
+Multi Style is for more than 2 players. 
+
+For 2 or more players. 
+The highest judgment in the group for each arrow is awarded to all players.  
+
+For 2 or more players. 
+Group judgment is based on the lowest accuracy. A "Boo" or "N.G." score will fail the game!  
+
+Wii console's Mii will be used. 
+To use Mii stored in the Wii Remote, transfer Mii from the Mii Channel to Wii console.  
+Guest Mii will be used. 
+No Mii has been created. 
+Please create Mii through the Mii Channel. 
+
+Select Mii face.  
+Select Mii body.  
+
+Are you ready to dance your way into this arena?  
+
+Wow! The audience is on fire!!
+
+Are you ready to move on to the next request?  
+
+It's time for your final request!
+
+Are you ready to go up against the arena master?  
+
+Wow! This arena is heatin' up!
+
+Do you want to dance again to make it even hotter? 
+
+You can do better than that!
+
+Wanna try this request again?  
+
+For 1 player. 
+Normal gameplay.  
+
+For 2 or more players. 
+The highest judgment in the group for each arrow is awarded to all players.  
+
+Multi Style is for more than 2 players. 
+
+For 2 or more players. 
+Group judgment is based on the lowest accuracy. 
+A "Boo" or "N.G." score will fail the game!  
+
+For 1 player. 
+Normal gameplay.  
+
+For 2 player. 
+Normal gameplay. 
+
+For 3 player. 
+Normal gameplay.  
+
+For 4 player. 
+Normal gameplay.  
+
+Select player data for Player 1.  
+Select player data for Player 2.  
+Select player data for Player 3.  
+Select player data for Player 4.  
+
+This data is already in use by Player 1. 
+This data is already in use by Player 2. 
+This data is already in use by Player 3.
+This data is already in use by Player 4. 
+Select player data to view. 
+
+Play against a LV 1 COM player. 
+Play against a LV 2 COM player. 
+Play against a LV 3 COM player. 
+Play against a LV 4 COM player. 
+
+Training dancing on your own.
+Use the assist feature to focus on the difficult areas, or enjoy your favorite parts! 
+View character dance motions with a free moving camera. 
+
+Play Groove Arena Mode to unlock more songs!  
+
+Set workout targets by goal: Play Time, Calories Burned or No Settings. 
+Enter the number of calories to burn. 
+Input total workout time. 
+No Settings.  
+When CUT is set to ON, there are no steps for beats less than quarter notes.  
+Turn Jump OFF and simultaneous step arrows will not be shown. 
+Start game. 
+
+Hand Marker and Hold Marker setting.
+When turned OFF, Markers will  appear as normal arrows.  
+Freeze Arrow setting. 
+When turned OFF, Freeze Arrows will  appear as normal arrows.  
+In-game Gimmick settings. 
+Enable assist function. 
+Set game play settings. 
+Confirm changes and return to previous screen.  
+
+Player 1 Hand Marker setting. 
+When turned "OFF", Markers will appear as normal arrows.  
+
+Player 2 Hand Marker setting. 
+When turned "OFF", Markers will appear as normal arrows.  
+
+Player 3 Hand Marker setting. 
+When turned "OFF", Markers will appear as normal arrows.  
+
+Player 4 Hand Marker setting. 
+When turned "OFF", Markers will appear as normal arrows.  
+Confirm changes and return to previous screen.  
+
+Player 1 Freeze Arrow setting. 
+When turned "OFF", Freeze Arrows will  appear as normal arrows. 
+
+Player 2 Freeze Arrow setting. 
+When turned "OFF", Freeze Arrows will  appear as normal arrows. 
+
+Player 3 Freeze Arrow setting. 
+When turned "OFF", Freeze Arrows will appear as normal arrows. 
+
+Player 4 Freeze Arrow setting. 
+When turned "OFF", Freeze Arrows will appear as normal arrows. 
+Confirm changes and return to previous screen.  
+
+Displays lines indicating 1 measure of music. 
+Show bar lines only for Beginner level. 
+Show bar lines for all difficulty levels.
+Hide bar lines for all difficulty levels. 
+Show/Hide bar lines for Player 1. 
+Show/Hide bar lines for Player 2. 
+Show/Hide bar lines for Player 3. 
+Show/Hide bar lines for Player 4. 
+Confirm changes and return to previous screen.  
+
+Turn Handclap ON/OFF. 
+Turn Metronome ON/OFF.  
+Turn Song ON/OFF. 
+Setting to ON will change the steps' color. 
+Early timing will show up blue and late timing pink.  
+Confirm changes and return to previous screen.  
+
+Set the arrow scroll rate.  
+Set the arrow scroll rate.  
+Set the arrow scroll rate.  
+Confirm changes and return to previous screen.  
+
+Set the arrow speed for Player 1. 
+Set the arrow speed for Player 2. 
+Set the arrow speed for Player 3. 
+Set the arrow speed for Player 4. 
+Confirm changes and return to previous screen.  
+
+Set the song playback speed.  
+Set the song playback speed.  
+Set the song playback speed.  
+Confirm changes and return to previous screen.  
+
+Change step directions. 
+Normal arrow directions are used. 
+Arrow directions are rotated 180 degrees. 
+Arrow directions are rotated 90 degrees to the left.  
+Arrow directions are rotated90 degrees to the right. 
+Arrow directions are rotated randomly.  
+Change step settings for Player 1.  
+Change step settings for Player 2. 
+Change step settings for Player 3.  
+Change step settings for Player 4.  
+Confirm changes and return to previous screen.  
+
+When CUT is set to ON, there are no steps for beats less than quarter notes.  
+Turn arrows for beats less than quarter notes OFF for Player 1. 
+Turn arrows for beats less than quarter notes OFF for Player 2. 
+Turn arrows for beats less than quarter notes OFF for Player 3.
+Turn arrows for beats less than quarter notes OFF for Player 4. 
+Confirm changes and return to previous screen. 
+
+Turn Jump off and simultaneous Step arrows will not be shown. 
+Turn off simultaneous arrows for Player 1.  
+Turn off simultaneous arrows for Player 2.  
+Turn off simultaneous arrows for Player 3.  
+Turn off simultaneous arrows for Player 4.  
+Confirm changes and return to previous screen.  
+Confirm changes and return to previous screen.  
+
+Set Game Options. 
+Set Appearance Options. 
+Set Save Options. 
+Unlocks all songs, gear, and stages from DanceDanceRevolution HOTTEST PARTY. 
+View Game Credits.  
+Confirm changes and return to previous screen.  
+
+Select settings for In-game voice.  
+Use all voices. 
+Use no voice. 
+Remove BOOING during gameplay.  
+
+The higher the level, the faster the dance gauge decreases (except for DANCE'N DEFEND).  
+The higher the level, the faster the dance gauge decreases (except for DANCE'N DEFEND).  
+The higher the level, the faster the dance gauge decreases (except for DANCE'N DEFEND).  
+Confirm changes and return to previous screen.  
+
+Sets to keep playing or not when Dance Gauge becomes 0. (Workout/Training Modes aren't affected).  
+Ends game when the Dance Gauge becomes zero.  
+Continues game after the Dance Gauge becomes zero.  
+Confirm changes and return to previous screen.  
+
+Modify arrow timing.  
+Modify arrow timing.  
+Modify arrow timing.  
+Confirm changes and return to previous screen.  
+
+Enable Marvelous judgment ranking.  
+Sets JUDGMENT to appear either above or below the arrows. 
+Displays JUDGMENT, COMBO and BONUS above the arrows.  
+Displays JUDGMENT, COMBO and BONUS below the arrows.  
+Confirm changes and return to previous screen. 
+
+Set options for Autosave. 
+Save game data. 
+Confirm changes and return to previous screen.  
