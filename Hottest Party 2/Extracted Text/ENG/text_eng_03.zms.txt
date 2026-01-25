@@ -1,0 +1,10 @@
+New Entry 
+No Data 
+Game play results will not be saved. Is this okay?  
+Create a new user with these settings?  
+Delete this user? 
+Load %s data? 
+Set password? 
+Password does not match.
+Enter password again.  
+Edit Complete?      
