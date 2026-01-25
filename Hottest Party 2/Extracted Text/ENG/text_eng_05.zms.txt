@@ -1,0 +1,5 @@
+Please select how to load the Groove Arena Mode.  
+
+Saved data will be deleted.
+Proceed? 
+(Unlocked items will not be deleted.)
