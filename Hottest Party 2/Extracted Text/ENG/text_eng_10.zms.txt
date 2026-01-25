@@ -1,0 +1,12 @@
+Unable to load Mii Channel data.
+Please access the Mii Channel and check Mii Channel data. 
+Continue without Mii
+Return to the Wii Menu Screen     
+
+You will not be able to use Mii.
+Proceed?  
+Yes
+No  
+
+Unable to load Mii Channel data.
+Please access the Mii Channel and check Mii Channel data. 
