@@ -1,0 +1,12 @@
+# DDR Hottest Party Explorer Tool
+<img width="800" height="632" alt="image" src="https://github.com/user-attachments/assets/d19a9c05-8fa4-4741-8ac2-396e45a08076" />
+
+A tool to extract and repack .bin files from the Hottest Party games.
+
+# Before starting
+Make sure you have python installed and customtkinter (to install it put this in cmd `pip install customtkinter pillow`)
+
+# Notes
+It shouldn't have any issues when repacking the .bin, I try it replacing Rena body texture with one of her eyes textures and it worked)
+
+<img width="600" height="480" alt="Dolphin 2026-04-01 16-10-21_488" src="https://github.com/user-attachments/assets/36f8cbd2-fa13-4fff-8d35-a683fa125823" />
