@@ -3,6 +3,8 @@
 
 A tool to extract and repack .bin files from the Hottest Party games.
 
+Google Gemini "helped" in creating this tool but most of the research of these files was made by me.
+
 # Before starting
 Make sure you have python installed and customtkinter (to install it put this in cmd `pip install customtkinter pillow`)
 
