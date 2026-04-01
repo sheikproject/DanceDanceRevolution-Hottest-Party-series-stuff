@@ -56,6 +56,10 @@ class DDRExplorerTool(ctk.CTk):
         self.status_bar.pack(side="bottom", fill="x")
 
     def detect_extension(self, data):
+        # Flexible WII check: accepts 'WII ' or 'WII\x00'
+        if data.startswith(b'WII ') or data.startswith(b'WII\x00'):
+            return ".bin"
+        
         snippet = data[:128]
         if b"ZMS" in snippet: return ".zms"
         if b"ZMB" in snippet: return ".zmb"
@@ -64,6 +68,7 @@ class DDRExplorerTool(ctk.CTk):
         if b"CAE_WII" in snippet: return ".cae"
         if b"ZLB" in snippet: return ".zlb"
         if b"\x00\x20\xAF\x30" in snippet: return ".tpl"
+        
         return ".bin"
 
     def generate_hex_dump(self, data):
@@ -79,16 +84,21 @@ class DDRExplorerTool(ctk.CTk):
     def open_bin(self):
         path = filedialog.askopenfilename(filetypes=[("DDRHP2/5 .bin", "*.bin")])
         if not path: return
-        self.original_path = path
-        self.header_label.configure(text=f"Opened Archive: {os.path.basename(path)}")
-        self.refresh_ui_list()
-
-    def refresh_ui_list(self):
-        """Clears and re-populates the sidebar list based on current memory data."""
-        with open(self.original_path, 'rb') as f:
+        
+        with open(path, 'rb') as f:
+            sig = f.read(4)
+            # Support both common WII header variations
+            if not (sig.startswith(b'WII ') or sig.startswith(b'WII\x00')):
+                 messagebox.showerror("Error", f"Not a valid WII container. Header was: {sig.hex()}")
+                 return
+            
+            self.original_path = path
+            self.header_label.configure(text=f"Opened Archive: {os.path.basename(path)}")
+            
             f.seek(8)
             count = struct.unpack('>I', f.read(4))[0]
             f.seek(16)
+            
             self.file_list.delete(0, tk.END)
             self.files_metadata.clear()
             self.raw_data_cache.clear()
@@ -99,11 +109,13 @@ class DDRExplorerTool(ctk.CTk):
                 f.seek(off)
                 data = f.read(sz)
                 ext = self.detect_extension(data)
+                
                 self.files_metadata.append([off, sz, ext])
                 self.raw_data_cache.append(bytearray(data))
                 self.file_list.insert(tk.END, f"{i:03d} | {ext.upper()} | {sz} bytes")
                 f.seek(old_pos)
-        self.status_bar.configure(text=f"Loaded {os.path.basename(self.original_path)} | Total Files: {len(self.raw_data_cache)}")
+
+        self.status_bar.configure(text=f"Loaded {os.path.basename(path)} | Total Files: {len(self.raw_data_cache)}")
 
     def on_select(self, event):
         if not self.file_list.curselection(): return
@@ -114,94 +126,92 @@ class DDRExplorerTool(ctk.CTk):
         self.hex_view.insert("1.0", self.generate_hex_dump(self.raw_data_cache[idx]))
 
     def add_new_file(self):
-        if not self.original_path:
-            messagebox.showwarning("Warning", "Open a .bin file first!")
-            return
-        path = filedialog.askopenfilename(title="Select a file to ADD to the .bin")
-        if path:
-            with open(path, 'rb') as f:
-                new_data = f.read()
-            idx = len(self.raw_data_cache)
-            ext = self.detect_extension(new_data)
-            self.raw_data_cache.append(bytearray(new_data))
-            self.files_metadata.append([0, len(new_data), ext])
-            self.file_list.insert(tk.END, f"{idx:03d} | [NEW] {ext.upper()} | {len(new_data)} bytes")
-            self.status_bar.configure(text=f"Added 1 file | Total Files: {len(self.raw_data_cache)}")
-
-    def replace_file(self):
-        idx = self.file_list.curselection()[0]
+        if not self.original_path: return
         path = filedialog.askopenfilename()
         if path:
-            with open(path, 'rb') as f: new_data = f.read()
-            self.raw_data_cache[idx] = bytearray(new_data)
-            self.files_metadata[idx][1] = len(new_data)
-            self.files_metadata[idx][2] = self.detect_extension(new_data)
+            with open(path, 'rb') as f: data = f.read()
+            idx = len(self.raw_data_cache)
+            ext = self.detect_extension(data)
+            self.raw_data_cache.append(bytearray(data))
+            self.files_metadata.append([0, len(data), ext])
+            self.file_list.insert(tk.END, f"{idx:03d} | [NEW] {ext.upper()} | {len(data)} bytes")
+
+    def replace_file(self):
+        selection = self.file_list.curselection()
+        if not selection: return
+        idx = selection[0]
+        path = filedialog.askopenfilename()
+        if path:
+            with open(path, 'rb') as f: data = f.read()
+            self.raw_data_cache[idx] = bytearray(data)
+            self.files_metadata[idx][1] = len(data)
+            self.files_metadata[idx][2] = self.detect_extension(data)
             self.file_list.delete(idx)
-            ext = self.files_metadata[idx][2].upper()
-            self.file_list.insert(idx, f"{idx:03d} | [MODDED {ext}] | {len(new_data)} bytes")
-            self.on_select(None)
+            self.file_list.insert(idx, f"{idx:03d} | [MODDED] {self.files_metadata[idx][2].upper()} | {len(data)} bytes")
 
     def extract_one(self):
-        idx = self.file_list.curselection()[0]
+        selection = self.file_list.curselection()
+        if not selection: return
+        idx = selection[0]
         ext = self.files_metadata[idx][2]
         path = filedialog.asksaveasfilename(defaultextension=ext, initialfile=f"file_{idx:03d}{ext}")
         if path:
             with open(path, 'wb') as f: f.write(self.raw_data_cache[idx])
 
     def extract_all(self):
+        if not self.raw_data_cache: return
         folder = filedialog.askdirectory()
         if folder:
             for i, data in enumerate(self.raw_data_cache):
                 ext = self.files_metadata[i][2]
                 with open(os.path.join(folder, f"{i:03d}{ext}"), 'wb') as f: f.write(data)
-            messagebox.showinfo("Success", "All files extracted!")
+            messagebox.showinfo("Success", "Extracted!")
 
     def save_modified_bin(self):
         if not self.original_path: return
         save_path = filedialog.asksaveasfilename(defaultextension=".bin", initialfile="MODDED_" + os.path.basename(self.original_path))
         if not save_path: return
 
+        new_count = len(self.raw_data_cache)
+        data_start_offset = 128
+        table_size = new_count * 8
+        if 16 + table_size > data_start_offset:
+            data_start_offset = (16 + table_size + 0x3F) & ~0x3F
+
         with open(save_path, 'wb') as out_f:
             with open(self.original_path, 'rb') as orig:
-                out_f.write(orig.read(8))
-            out_f.write(struct.pack('>I', len(self.raw_data_cache)))
-            out_f.write(b'\x00' * 4)
+                header_start = orig.read(4)
+            
+            out_f.write(header_start)
+            out_f.write(struct.pack('>I', 0x20000)) 
+            out_f.write(struct.pack('>I', new_count))
+            out_f.write(b'\x00\x00\x00\x00')
 
-            table_start = 16
-            table_size = len(self.raw_data_cache) * 8
-            data_start_offset = 128 
-            if table_start + table_size > data_start_offset:
-                data_start_offset = (table_start + table_size + 0x3F) & ~0x3F
-
-            current_offset = data_start_offset
+            current_data_pos = data_start_offset
             table_bytes = b""
-            file_data_bytes = b""
-            
-            for data in self.raw_data_cache:
-                table_bytes += struct.pack('>II', current_offset, len(data))
-                file_data_bytes += data
-                pad = (4 - (len(data) % 4)) % 4
-                file_data_bytes += b'\x00' * pad
-                current_offset += len(data) + pad
-            
-            out_f.write(table_bytes)
-            padding_needed = data_start_offset - out_f.tell()
-            if padding_needed > 0:
-                out_f.write(b'\x00' * padding_needed)
-            out_f.write(file_data_bytes)
+            file_blobs = b""
 
-        # Update Tool state to the new file and clear [NEW] tags
+            for i in range(new_count):
+                data = self.raw_data_cache[i]
+                sz = len(data)
+                table_bytes += struct.pack('>II', current_data_pos, sz)
+                self.files_metadata[i][0] = current_data_pos
+                file_blobs += data
+                pad = (4 - (sz % 4)) % 4
+                file_blobs += b'\x00' * pad
+                current_data_pos += sz + pad
+
+            out_f.write(table_bytes)
+            out_f.write(b'\x00' * (data_start_offset - out_f.tell()))
+            out_f.write(file_blobs)
+
         self.original_path = save_path
         self.header_label.configure(text=f"Opened Archive: {os.path.basename(save_path)}")
-        
-        # Clear the listbox and re-show the actual saved data
         self.file_list.delete(0, tk.END)
         for i, meta in enumerate(self.files_metadata):
-            ext = meta[2].upper()
-            size = meta[1]
-            self.file_list.insert(tk.END, f"{i:03d} | {ext} | {size} bytes")
+            self.file_list.insert(tk.END, f"{i:03d} | {meta[2].upper()} | {meta[1]} bytes")
         
-        messagebox.showinfo("Success", ".bin Saved!")
+        messagebox.showinfo("Success", ".bin saved!")
 
 if __name__ == "__main__":
     app = DDRExplorerTool()
