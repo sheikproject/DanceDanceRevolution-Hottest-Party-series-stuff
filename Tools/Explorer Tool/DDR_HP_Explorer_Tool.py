@@ -172,47 +172,82 @@ class DDRExplorerTool(ctk.CTk):
         save_path = filedialog.asksaveasfilename(defaultextension=".bin", initialfile="MODDED_" + os.path.basename(self.original_path))
         if not save_path: return
 
-        new_count = len(self.raw_data_cache)
-        data_start_offset = 128
-        table_size = new_count * 8
-        if 16 + table_size > data_start_offset:
-            data_start_offset = (16 + table_size + 0x3F) & ~0x3F
-
         with open(save_path, 'wb') as out_f:
             with open(self.original_path, 'rb') as orig:
-                header_start = orig.read(4)
+                # 1. Get the original data start offset from the first table entry
+                orig.seek(16)
+                first_off = struct.unpack('>I', orig.read(4))[0]
+                data_start_offset = first_off 
+                
+                # 2. Copy the entire header and filename table
+                orig.seek(0)
+                header_and_names = orig.read(data_start_offset)
             
-            out_f.write(header_start)
-            out_f.write(struct.pack('>I', 0x20000)) 
+            out_f.write(header_and_names)
+            
+            # 3. Update File Count at 0x08
+            new_count = len(self.raw_data_cache)
+            out_f.seek(8)
             out_f.write(struct.pack('>I', new_count))
-            out_f.write(b'\x00\x00\x00\x00')
+            
+            # 4. Rebuild the Table and Data with 32-byte alignment
+            out_f.seek(16)
+            current_pos = data_start_offset
+            data_payload = b""
 
-            current_data_pos = data_start_offset
-            table_bytes = b""
-            file_blobs = b""
-
-            for i in range(new_count):
-                data = self.raw_data_cache[i]
+            for data in self.raw_data_cache:
                 sz = len(data)
-                table_bytes += struct.pack('>II', current_data_pos, sz)
-                self.files_metadata[i][0] = current_data_pos
-                file_blobs += data
-                pad = (4 - (sz % 4)) % 4
-                file_blobs += b'\x00' * pad
-                current_data_pos += sz + pad
+                # Write current offset and size to table
+                out_f.write(struct.pack('>II', current_pos, sz))
+                
+                # Add data to payload
+                data_payload += data
+                
+                # Align to 32-byte boundaries
+                pad_len = (32 - (sz % 32)) % 32
+                data_payload += b'\x00' * pad_len
+                current_pos += (sz + pad_len)
 
-            out_f.write(table_bytes)
-            out_f.write(b'\x00' * (data_start_offset - out_f.tell()))
-            out_f.write(file_blobs)
+            # 5. Write the actual data
+            out_f.seek(data_start_offset)
+            out_f.write(data_payload)
 
-        self.original_path = save_path
-        self.header_label.configure(text=f"Opened Archive: {os.path.basename(save_path)}")
-        self.file_list.delete(0, tk.END)
-        for i, meta in enumerate(self.files_metadata):
-            self.file_list.insert(tk.END, f"{i:03d} | {meta[2].upper()} | {meta[1]} bytes")
+        # --- AUTO-RELOAD ---
+        messagebox.showinfo("Success", ".bin saved! Reloading file...")
+        self.load_file_from_path(save_path)
+
+    def load_file_from_path(self, path):
+        """Helper to handle the actual opening logic so it can be called by open_bin or save_modified_bin"""
+        self.original_path = path
+        self.header_label.configure(text=f"Opened: {os.path.basename(path)}")
         
-        messagebox.showinfo("Success", ".bin saved!")
+        with open(path, 'rb') as f:
+            f.seek(8)
+            count = struct.unpack('>I', f.read(4))[0]
+            f.seek(16)
+            
+            self.file_list.delete(0, tk.END)
+            self.files_metadata.clear()
+            self.raw_data_cache.clear()
+            
+            for i in range(count):
+                off, sz = struct.unpack('>II', f.read(8))
+                old_pos = f.tell()
+                f.seek(off)
+                data = f.read(sz)
+                ext = self.detect_extension(data)
+                
+                self.files_metadata.append([off, sz, ext])
+                self.raw_data_cache.append(bytearray(data))
+                self.file_list.insert(tk.END, f"{i:03d} | {ext.upper()} | {sz} bytes")
+                f.seek(old_pos)
+        
+        self.status_bar.configure(text=f"Loaded {os.path.basename(path)} | Total Files: {len(self.raw_data_cache)}")
 
+    def open_bin(self):
+        path = filedialog.askopenfilename(filetypes=[("DDRHP2/5 .bin", "*.bin")])
+        if path:
+            self.load_file_from_path(path)
 if __name__ == "__main__":
     app = DDRExplorerTool()
     app.mainloop()
