@@ -1,5 +1,5 @@
 # DDR Hottest Party Explorer Tool
-<img width="802" height="632" alt="image" src="https://github.com/user-attachments/assets/541b1297-0035-4755-af9a-3ce646f4f37d" />
+<img width="802" height="632" alt="image" src="https://github.com/user-attachments/assets/8af81aed-7f9a-4732-8b5d-fe42e3658253" />
 
 A tool to extract and repack .bin files from the Hottest Party games.
 
