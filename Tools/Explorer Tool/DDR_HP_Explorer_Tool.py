@@ -10,7 +10,7 @@ class DDRExplorerTool(ctk.CTk):
     def __init__(self):
         super().__init__()
         self.title("DDR Hottest Party Explorer Tool")
-        self.geometry("1200x800")
+        self.geometry("1000x600")
 
         self.original_path = ""
         self.files_metadata = [] 
