@@ -68,7 +68,8 @@ class DDRExplorerTool(ctk.CTk):
         if b"ZAB" in snippet: return ".zab"
         if b"TEB" in snippet: return ".teb"
         if b"CAE_WII" in snippet: return ".cae"
-        if b"ZLB" in snippet: return ".zlb"
+        if b"ZAR" in snippet: return ".zar"
+        if b"THP" in snippet: return ".thp"
         if b"\x00\x20\xAF\x30" in snippet: return ".tpl"
         return ".bin"
 
