@@ -1,9 +1,14 @@
 {
+    "structDefs": {
+        "rootNode": [
+        ]
+    },
     "watchList": [
         {
             "expanded": true,
             "groupEntries": [
                 {
+                    "absoluteBranch": false,
                     "address": "8148EC00",
                     "baseIndex": 0,
                     "label": "Arrow Highlighted",
@@ -11,6 +16,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "805753D4",
                     "baseIndex": 0,
                     "label": "Character ID",
@@ -18,6 +24,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8148EBA4",
                     "baseIndex": 0,
                     "label": "Character Slot Highlighted",
@@ -25,6 +32,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8148EBAC",
                     "baseIndex": 0,
                     "label": "Character Select Page",
@@ -32,6 +40,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8057547F",
                     "baseIndex": 0,
                     "label": "Character is Blocked?",
@@ -39,6 +48,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "805753DB",
                     "baseIndex": 0,
                     "label": "Costume Slot ID",
@@ -46,6 +56,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8057548B",
                     "baseIndex": 0,
                     "label": "Shadow Model",
@@ -53,6 +64,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A224C",
                     "baseIndex": 0,
                     "label": "Selected Character",
@@ -60,6 +72,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2253",
                     "baseIndex": 0,
                     "label": "Selected Costume",
@@ -67,6 +80,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2260",
                     "baseIndex": 0,
                     "label": "Character Mii Head ",
@@ -74,6 +88,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A227C",
                     "baseIndex": 0,
                     "label": "Selected Backdancer",
@@ -81,6 +96,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2280",
                     "baseIndex": 0,
                     "label": "Backdancer Costume",
@@ -88,6 +104,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2290",
                     "baseIndex": 0,
                     "label": "Backdancer Mii Head",
@@ -95,6 +112,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A22AC",
                     "baseIndex": 0,
                     "label": "Selected Backdancer 2",
@@ -102,6 +120,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A22B0",
                     "baseIndex": 0,
                     "label": "Backdancer 2 Costume",
@@ -109,6 +128,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A22C0",
                     "baseIndex": 0,
                     "label": "Backdancer 2 Mii Head",
@@ -116,6 +136,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8053F748",
                     "baseIndex": 0,
                     "label": "Character (Gameplay)",
@@ -123,6 +144,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8053F74C",
                     "baseIndex": 0,
                     "label": "Character Costume (Gameplay)",
@@ -130,6 +152,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8053F758",
                     "baseIndex": 0,
                     "label": "Character Mii Head (Gameplay)",
@@ -137,6 +160,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8053F9FC",
                     "baseIndex": 0,
                     "label": "Character (Boss Songs)",
@@ -144,6 +168,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8053FA00",
                     "baseIndex": 0,
                     "label": "Character Costume (Boss Songs)",
@@ -151,6 +176,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8053FA0C",
                     "baseIndex": 0,
                     "label": "Character Mii Head (Boss Songs)",
@@ -158,6 +184,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8053FA28",
                     "baseIndex": 0,
                     "label": "Backdancer (Gameplay)",
@@ -165,6 +192,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8053FA2C",
                     "baseIndex": 0,
                     "label": "Backdancer Costume (Gameplay)",
@@ -172,6 +200,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8053FA38",
                     "baseIndex": 0,
                     "label": "Backdancer Mii Head (Gameplay)",
@@ -179,6 +208,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8053FA54",
                     "baseIndex": 0,
                     "label": "Backdancer 2 (Gameplay)",
@@ -186,6 +216,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8053FA58",
                     "baseIndex": 0,
                     "label": "Backdancer 2 Costume (Gameplay)",
@@ -193,6 +224,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8053FA64",
                     "baseIndex": 0,
                     "label": "Backdancer 2 Mii Head (Gameplay)",
@@ -203,6 +235,7 @@
             "groupName": "Character Select"
         },
         {
+            "absoluteBranch": false,
             "address": "8059D874",
             "baseIndex": 0,
             "label": "Disable Background",
@@ -210,6 +243,7 @@
             "unsigned": false
         },
         {
+            "absoluteBranch": false,
             "address": "808A2234",
             "baseIndex": 0,
             "label": "Game Style",
@@ -218,6 +252,7 @@
             "unsigned": false
         },
         {
+            "absoluteBranch": false,
             "address": "805419A0",
             "baseIndex": 0,
             "label": "Game Style",
@@ -227,6 +262,7 @@
         {
             "groupEntries": [
                 {
+                    "absoluteBranch": false,
                     "address": "808A219C",
                     "baseIndex": 0,
                     "label": "Mode ID",
@@ -234,6 +270,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2224",
                     "baseIndex": 0,
                     "label": "Mode Related",
@@ -241,6 +278,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A21A0",
                     "baseIndex": 0,
                     "label": "Last Mode Selected",
@@ -248,6 +286,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2198",
                     "baseIndex": 0,
                     "label": "Current Mode",
@@ -255,6 +294,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8148ED14",
                     "baseIndex": 0,
                     "label": "Main Menu Mode Highlighted",
@@ -262,6 +302,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8148F068",
                     "baseIndex": 0,
                     "label": "Title Screen Timer",
@@ -269,6 +310,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8148F07C",
                     "baseIndex": 0,
                     "label": "Title Screen \"Press Start\"",
@@ -276,6 +318,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "80540418",
                     "baseIndex": 0,
                     "label": "Game Mode?",
@@ -289,6 +332,7 @@
         {
             "groupEntries": [
                 {
+                    "absoluteBranch": false,
                     "address": "808A2B1C",
                     "baseIndex": 0,
                     "label": "Songlist Mode?",
@@ -296,6 +340,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A20A8",
                     "baseIndex": 0,
                     "label": "Song Timer?",
@@ -303,6 +348,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A456C",
                     "baseIndex": 0,
                     "label": "Song Beat?",
@@ -310,6 +356,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8053EB78",
                     "baseIndex": 0,
                     "label": "Song ID",
@@ -317,6 +364,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "817E4578",
                     "baseIndex": 0,
                     "label": "Song ID (Course)",
@@ -324,6 +372,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2254",
                     "baseIndex": 0,
                     "label": "Difficulty Highlighted",
@@ -331,6 +380,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A21F8",
                     "baseIndex": 0,
                     "label": "Song Exit Timer",
@@ -338,6 +388,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "81489DA8",
                     "baseIndex": 0,
                     "label": "Song Highlighted",
@@ -345,6 +396,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "81489EB4",
                     "baseIndex": 0,
                     "label": "Song Highlighted?",
@@ -357,6 +409,7 @@
         {
             "groupEntries": [
                 {
+                    "absoluteBranch": false,
                     "address": "808A2E54",
                     "baseIndex": 0,
                     "label": "Songs Available",
@@ -364,6 +417,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2E58",
                     "baseIndex": 0,
                     "label": "Song Slot 1",
@@ -371,6 +425,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2E5C",
                     "baseIndex": 0,
                     "label": "Song Slot 2",
@@ -378,6 +433,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2E60",
                     "baseIndex": 0,
                     "label": "Song Slot 3",
@@ -385,6 +441,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2E64",
                     "baseIndex": 0,
                     "label": "Song Slot 4",
@@ -392,6 +449,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2E68",
                     "baseIndex": 0,
                     "label": "Song Slot 5",
@@ -399,6 +457,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2E6C",
                     "baseIndex": 0,
                     "label": "Song Slot 6",
@@ -406,6 +465,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2E70",
                     "baseIndex": 0,
                     "label": "Song Slot 7",
@@ -413,6 +473,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2E74",
                     "baseIndex": 0,
                     "label": "Song Slot 8",
@@ -420,6 +481,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2E78",
                     "baseIndex": 0,
                     "label": "Song Slot 9",
@@ -427,6 +489,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2E7C",
                     "baseIndex": 0,
                     "label": "Song Slot 10",
@@ -434,6 +497,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2E80",
                     "baseIndex": 0,
                     "label": "Song Slot 11",
@@ -441,6 +505,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2E84",
                     "baseIndex": 0,
                     "label": "Song Slot 12",
@@ -448,6 +513,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2E88",
                     "baseIndex": 0,
                     "label": "Song Slot 13",
@@ -455,6 +521,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2E8C",
                     "baseIndex": 0,
                     "label": "Song Slot 14",
@@ -462,6 +529,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2E90",
                     "baseIndex": 0,
                     "label": "Song Slot 15",
@@ -469,6 +537,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2E94",
                     "baseIndex": 0,
                     "label": "Song Slot 16",
@@ -476,6 +545,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2E98",
                     "baseIndex": 0,
                     "label": "Song Slot 17",
@@ -483,6 +553,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2E9C",
                     "baseIndex": 0,
                     "label": "Song Slot 18",
@@ -490,6 +561,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2EA0",
                     "baseIndex": 0,
                     "label": "Song Slot 19",
@@ -497,6 +569,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2EA4",
                     "baseIndex": 0,
                     "label": "Song Slot 20",
@@ -504,6 +577,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2EA8",
                     "baseIndex": 0,
                     "label": "Song Slot 21",
@@ -511,6 +585,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2EAC",
                     "baseIndex": 0,
                     "label": "Song Slot 22",
@@ -518,6 +593,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2EB0",
                     "baseIndex": 0,
                     "label": "Song Slot 23",
@@ -525,6 +601,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2EB4",
                     "baseIndex": 0,
                     "label": "Song Slot 24",
@@ -532,6 +609,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2EB8",
                     "baseIndex": 0,
                     "label": "Song Slot 25",
@@ -539,6 +617,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2EBC",
                     "baseIndex": 0,
                     "label": "Song Slot 26",
@@ -546,6 +625,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2EC0",
                     "baseIndex": 0,
                     "label": "Song Slot 27",
@@ -553,6 +633,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2EC4",
                     "baseIndex": 0,
                     "label": "Song Slot 28",
@@ -560,6 +641,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2EC8",
                     "baseIndex": 0,
                     "label": "Song Slot 29",
@@ -567,6 +649,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2ECC",
                     "baseIndex": 0,
                     "label": "Song Slot 30",
@@ -574,6 +657,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2ED0",
                     "baseIndex": 0,
                     "label": "Song Slot 31",
@@ -581,6 +665,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2ED4",
                     "baseIndex": 0,
                     "label": "Song Slot 32",
@@ -588,6 +673,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2ED8",
                     "baseIndex": 0,
                     "label": "Song Slot 33",
@@ -595,6 +681,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2EDC",
                     "baseIndex": 0,
                     "label": "Song Slot 34",
@@ -602,6 +689,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2EE0",
                     "baseIndex": 0,
                     "label": "Song Slot 35",
@@ -609,6 +697,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2EE4",
                     "baseIndex": 0,
                     "label": "Song Slot 36",
@@ -616,6 +705,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2EE8",
                     "baseIndex": 0,
                     "label": "Song Slot 37",
@@ -623,6 +713,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2EEC",
                     "baseIndex": 0,
                     "label": "Song Slot 38",
@@ -630,6 +721,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2EF0",
                     "baseIndex": 0,
                     "label": "Song Slot 39",
@@ -637,6 +729,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2EF4",
                     "baseIndex": 0,
                     "label": "Song Slot 40",
@@ -644,6 +737,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2EF8",
                     "baseIndex": 0,
                     "label": "Song Slot 41",
@@ -651,6 +745,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2EFC",
                     "baseIndex": 0,
                     "label": "Song Slot 42",
@@ -658,6 +753,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F00",
                     "baseIndex": 0,
                     "label": "Song Slot 43",
@@ -665,6 +761,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F04",
                     "baseIndex": 0,
                     "label": "Song Slot 44",
@@ -672,6 +769,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F08",
                     "baseIndex": 0,
                     "label": "Song Slot 45",
@@ -679,6 +777,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F0C",
                     "baseIndex": 0,
                     "label": "Song Slot 46",
@@ -686,6 +785,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F10",
                     "baseIndex": 0,
                     "label": "Song Slot 47",
@@ -693,6 +793,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F14",
                     "baseIndex": 0,
                     "label": "Song Slot 48",
@@ -700,6 +801,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F18",
                     "baseIndex": 0,
                     "label": "Song Slot 49",
@@ -707,6 +809,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F1C",
                     "baseIndex": 0,
                     "label": "Song Slot 50",
@@ -714,6 +817,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F20",
                     "baseIndex": 0,
                     "label": "Song Slot 51",
@@ -721,6 +825,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F24",
                     "baseIndex": 0,
                     "label": "Song Slot 52",
@@ -728,6 +833,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F28",
                     "baseIndex": 0,
                     "label": "Song Slot 53",
@@ -735,6 +841,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F2C",
                     "baseIndex": 0,
                     "label": "Song Slot 54",
@@ -742,6 +849,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F30",
                     "baseIndex": 0,
                     "label": "Song Slot 55",
@@ -749,6 +857,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F34",
                     "baseIndex": 0,
                     "label": "Song Slot 56",
@@ -756,6 +865,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F38",
                     "baseIndex": 0,
                     "label": "Song Slot 57",
@@ -763,6 +873,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F3C",
                     "baseIndex": 0,
                     "label": "Song Slot 58",
@@ -770,6 +881,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F40",
                     "baseIndex": 0,
                     "label": "Song Slot 59",
@@ -777,6 +889,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F44",
                     "baseIndex": 0,
                     "label": "Song Slot 60",
@@ -784,6 +897,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F48",
                     "baseIndex": 0,
                     "label": "Song Slot 61",
@@ -791,6 +905,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F4C",
                     "baseIndex": 0,
                     "label": "Song Slot 62",
@@ -798,6 +913,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F50",
                     "baseIndex": 0,
                     "label": "Song Slot 63",
@@ -805,6 +921,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F54",
                     "baseIndex": 0,
                     "label": "Song Slot 64",
@@ -812,6 +929,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F58",
                     "baseIndex": 0,
                     "label": "Song Slot 65",
@@ -819,6 +937,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F5C",
                     "baseIndex": 0,
                     "label": "Song Slot 66",
@@ -826,6 +945,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F60",
                     "baseIndex": 0,
                     "label": "Song Slot 67",
@@ -833,6 +953,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F64",
                     "baseIndex": 0,
                     "label": "Song Slot 68",
@@ -840,6 +961,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F68",
                     "baseIndex": 0,
                     "label": "Song Slot 69",
@@ -847,6 +969,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F6C",
                     "baseIndex": 0,
                     "label": "Song Slot 70",
@@ -854,6 +977,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F70",
                     "baseIndex": 0,
                     "label": "Song Slot 71",
@@ -861,6 +985,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F74",
                     "baseIndex": 0,
                     "label": "Song Slot 72",
@@ -868,6 +993,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F78",
                     "baseIndex": 0,
                     "label": "Song Slot 73",
@@ -875,6 +1001,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F7C",
                     "baseIndex": 0,
                     "label": "Song Slot 74",
@@ -882,6 +1009,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F80",
                     "baseIndex": 0,
                     "label": "Song Slot 75",
@@ -889,6 +1017,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F84",
                     "baseIndex": 0,
                     "label": "Song Slot 76",
@@ -896,6 +1025,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F88",
                     "baseIndex": 0,
                     "label": "Song Slot 77",
@@ -903,6 +1033,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F8C",
                     "baseIndex": 0,
                     "label": "Song Slot 78",
@@ -910,6 +1041,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F90",
                     "baseIndex": 0,
                     "label": "Song Slot 79",
@@ -917,6 +1049,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F94",
                     "baseIndex": 0,
                     "label": "Song Slot 80",
@@ -924,6 +1057,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F98",
                     "baseIndex": 0,
                     "label": "Song Slot 81",
@@ -931,6 +1065,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2F9C",
                     "baseIndex": 0,
                     "label": "Song Slot 82",
@@ -938,6 +1073,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2FA0",
                     "baseIndex": 0,
                     "label": "Song Slot 83",
@@ -945,6 +1081,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2FA4",
                     "baseIndex": 0,
                     "label": "Song Slot 84",
@@ -952,6 +1089,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2FA8",
                     "baseIndex": 0,
                     "label": "Song Slot 85",
@@ -959,6 +1097,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2FAC",
                     "baseIndex": 0,
                     "label": "Song Slot 86",
@@ -966,6 +1105,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2FB0",
                     "baseIndex": 0,
                     "label": "Song Slot 87",
@@ -973,6 +1113,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2FB4",
                     "baseIndex": 0,
                     "label": "Song Slot 88",
@@ -980,6 +1121,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2FB8",
                     "baseIndex": 0,
                     "label": "Song Slot 89",
@@ -987,6 +1129,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2FBC",
                     "baseIndex": 0,
                     "label": "Song Slot 90",
@@ -994,6 +1137,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2FC0",
                     "baseIndex": 0,
                     "label": "Song Slot 91",
@@ -1001,6 +1145,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2FC4",
                     "baseIndex": 0,
                     "label": "Song Slot 92",
@@ -1008,6 +1153,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2FC8",
                     "baseIndex": 0,
                     "label": "Song Slot 93",
@@ -1015,6 +1161,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2FCC",
                     "baseIndex": 0,
                     "label": "Song Slot 94",
@@ -1022,6 +1169,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2FD0",
                     "baseIndex": 0,
                     "label": "Song Slot 95",
@@ -1029,6 +1177,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2FD4",
                     "baseIndex": 0,
                     "label": "Song Slot 96",
@@ -1036,6 +1185,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2FD8",
                     "baseIndex": 0,
                     "label": "Song Slot 97",
@@ -1043,6 +1193,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2FDC",
                     "baseIndex": 0,
                     "label": "Song Slot 98",
@@ -1050,6 +1201,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2FE0",
                     "baseIndex": 0,
                     "label": "Song Slot 99",
@@ -1057,6 +1209,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2FE4",
                     "baseIndex": 0,
                     "label": "Song Slot 100",
@@ -1064,6 +1217,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2FE8",
                     "baseIndex": 0,
                     "label": "Song Slot 101",
@@ -1071,6 +1225,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2FEC",
                     "baseIndex": 0,
                     "label": "Song Slot 102",
@@ -1078,6 +1233,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2FF0",
                     "baseIndex": 0,
                     "label": "Song Slot 103",
@@ -1085,6 +1241,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2FF4",
                     "baseIndex": 0,
                     "label": "Song Slot 104",
@@ -1092,6 +1249,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2FF8",
                     "baseIndex": 0,
                     "label": "Song Slot 105",
@@ -1099,6 +1257,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A2FFC",
                     "baseIndex": 0,
                     "label": "Song Slot 106",
@@ -1106,6 +1265,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3000",
                     "baseIndex": 0,
                     "label": "Song Slot 107",
@@ -1113,6 +1273,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3004",
                     "baseIndex": 0,
                     "label": "Song Slot 108",
@@ -1120,6 +1281,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3008",
                     "baseIndex": 0,
                     "label": "Song Slot 109",
@@ -1127,6 +1289,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A300C",
                     "baseIndex": 0,
                     "label": "Song Slot 110",
@@ -1134,6 +1297,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3010",
                     "baseIndex": 0,
                     "label": "Song Slot 111",
@@ -1141,6 +1305,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3014",
                     "baseIndex": 0,
                     "label": "Song Slot 112",
@@ -1148,6 +1313,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3018",
                     "baseIndex": 0,
                     "label": "Song Slot 113",
@@ -1155,6 +1321,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A301C",
                     "baseIndex": 0,
                     "label": "Song Slot 114",
@@ -1162,6 +1329,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3020",
                     "baseIndex": 0,
                     "label": "Song Slot 115",
@@ -1169,6 +1337,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3024",
                     "baseIndex": 0,
                     "label": "Song Slot 116",
@@ -1176,6 +1345,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3028",
                     "baseIndex": 0,
                     "label": "Song Slot 117",
@@ -1183,6 +1353,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A302C",
                     "baseIndex": 0,
                     "label": "Song Slot 118",
@@ -1190,6 +1361,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3030",
                     "baseIndex": 0,
                     "label": "Song Slot 119",
@@ -1197,6 +1369,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3034",
                     "baseIndex": 0,
                     "label": "Song Slot 120",
@@ -1204,6 +1377,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3038",
                     "baseIndex": 0,
                     "label": "Song Slot 121",
@@ -1211,6 +1385,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A303C",
                     "baseIndex": 0,
                     "label": "Song Slot 122",
@@ -1218,6 +1393,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3040",
                     "baseIndex": 0,
                     "label": "Song Slot 123",
@@ -1225,6 +1401,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3044",
                     "baseIndex": 0,
                     "label": "Song Slot 124",
@@ -1232,6 +1409,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3048",
                     "baseIndex": 0,
                     "label": "Song Slot 125",
@@ -1239,6 +1417,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A304C",
                     "baseIndex": 0,
                     "label": "Song Slot 126",
@@ -1246,6 +1425,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3050",
                     "baseIndex": 0,
                     "label": "Song Slot 127",
@@ -1253,6 +1433,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3054",
                     "baseIndex": 0,
                     "label": "Song Slot 128",
@@ -1260,6 +1441,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3058",
                     "baseIndex": 0,
                     "label": "Song Slot 129",
@@ -1267,6 +1449,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A305C",
                     "baseIndex": 0,
                     "label": "Song Slot 130",
@@ -1274,6 +1457,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3060",
                     "baseIndex": 0,
                     "label": "Song Slot 131",
@@ -1281,6 +1465,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3064",
                     "baseIndex": 0,
                     "label": "Song Slot 132",
@@ -1288,6 +1473,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3068",
                     "baseIndex": 0,
                     "label": "Song Slot 133",
@@ -1295,6 +1481,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A306C",
                     "baseIndex": 0,
                     "label": "Song Slot 134",
@@ -1302,6 +1489,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3070",
                     "baseIndex": 0,
                     "label": "Song Slot 135",
@@ -1309,6 +1497,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3074",
                     "baseIndex": 0,
                     "label": "Song Slot 136",
@@ -1316,6 +1505,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3078",
                     "baseIndex": 0,
                     "label": "Song Slot 137",
@@ -1323,6 +1513,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A307C",
                     "baseIndex": 0,
                     "label": "Song Slot 138",
@@ -1330,6 +1521,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3080",
                     "baseIndex": 0,
                     "label": "Song Slot 139",
@@ -1337,6 +1529,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3084",
                     "baseIndex": 0,
                     "label": "Song Slot 140",
@@ -1344,6 +1537,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3088",
                     "baseIndex": 0,
                     "label": "Song Slot 141",
@@ -1351,6 +1545,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A308C",
                     "baseIndex": 0,
                     "label": "Song Slot 142",
@@ -1358,6 +1553,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3090",
                     "baseIndex": 0,
                     "label": "Song Slot 143",
@@ -1365,6 +1561,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3094",
                     "baseIndex": 0,
                     "label": "Song Slot 144",
@@ -1372,6 +1569,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3098",
                     "baseIndex": 0,
                     "label": "Song Slot 145",
@@ -1379,6 +1577,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A309C",
                     "baseIndex": 0,
                     "label": "Song Slot 146",
@@ -1386,6 +1585,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A30A0",
                     "baseIndex": 0,
                     "label": "Song Slot 147",
@@ -1393,6 +1593,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A30A4",
                     "baseIndex": 0,
                     "label": "Song Slot 148",
@@ -1400,6 +1601,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A30A8",
                     "baseIndex": 0,
                     "label": "Song Slot 149",
@@ -1407,6 +1609,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A30AC",
                     "baseIndex": 0,
                     "label": "Song Slot 150",
@@ -1414,6 +1617,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A30B0",
                     "baseIndex": 0,
                     "label": "Song Slot 151",
@@ -1421,6 +1625,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A30B4",
                     "baseIndex": 0,
                     "label": "Song Slot 152",
@@ -1428,6 +1633,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A30B8",
                     "baseIndex": 0,
                     "label": "Song Slot 153",
@@ -1435,6 +1641,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A30BC",
                     "baseIndex": 0,
                     "label": "Song Slot 154",
@@ -1442,6 +1649,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A30C0",
                     "baseIndex": 0,
                     "label": "Song Slot 155",
@@ -1449,6 +1657,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A30C4",
                     "baseIndex": 0,
                     "label": "Song Slot 156",
@@ -1456,6 +1665,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A30C8",
                     "baseIndex": 0,
                     "label": "Song Slot 157",
@@ -1463,6 +1673,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A30CC",
                     "baseIndex": 0,
                     "label": "Song Slot 158",
@@ -1470,6 +1681,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A30D0",
                     "baseIndex": 0,
                     "label": "Song Slot 159",
@@ -1477,6 +1689,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A30D4",
                     "baseIndex": 0,
                     "label": "Song Slot 160",
@@ -1484,6 +1697,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A30D8",
                     "baseIndex": 0,
                     "label": "Song Slot 161",
@@ -1491,6 +1705,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A30DC",
                     "baseIndex": 0,
                     "label": "Song Slot 162",
@@ -1498,6 +1713,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A30E0",
                     "baseIndex": 0,
                     "label": "Song Slot 163",
@@ -1505,6 +1721,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A30E4",
                     "baseIndex": 0,
                     "label": "Song Slot 164",
@@ -1512,6 +1729,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A30E8",
                     "baseIndex": 0,
                     "label": "Song Slot 165",
@@ -1519,6 +1737,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A30EC",
                     "baseIndex": 0,
                     "label": "Song Slot 166",
@@ -1526,6 +1745,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A30F0",
                     "baseIndex": 0,
                     "label": "Song Slot 167",
@@ -1533,6 +1753,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A30F4",
                     "baseIndex": 0,
                     "label": "Song Slot 168",
@@ -1540,6 +1761,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A30F8",
                     "baseIndex": 0,
                     "label": "Song Slot 169",
@@ -1547,6 +1769,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A30FC",
                     "baseIndex": 0,
                     "label": "Song Slot 170",
@@ -1554,6 +1777,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3100",
                     "baseIndex": 0,
                     "label": "Song Slot 171",
@@ -1561,6 +1785,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3104",
                     "baseIndex": 0,
                     "label": "Song Slot 172",
@@ -1568,6 +1793,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3108",
                     "baseIndex": 0,
                     "label": "Song Slot 173",
@@ -1575,6 +1801,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A310C",
                     "baseIndex": 0,
                     "label": "Song Slot 174",
@@ -1582,6 +1809,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3110",
                     "baseIndex": 0,
                     "label": "Song Slot 175",
@@ -1589,6 +1817,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3114",
                     "baseIndex": 0,
                     "label": "Song Slot 176",
@@ -1596,6 +1825,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3118",
                     "baseIndex": 0,
                     "label": "Song Slot 177",
@@ -1603,6 +1833,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A311C",
                     "baseIndex": 0,
                     "label": "Song Slot 178",
@@ -1610,6 +1841,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3120",
                     "baseIndex": 0,
                     "label": "Song Slot 179",
@@ -1617,6 +1849,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3124",
                     "baseIndex": 0,
                     "label": "Song Slot 180",
@@ -1624,6 +1857,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3128",
                     "baseIndex": 0,
                     "label": "Song Slot 181",
@@ -1631,6 +1865,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A312C",
                     "baseIndex": 0,
                     "label": "Song Slot 182",
@@ -1638,6 +1873,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3130",
                     "baseIndex": 0,
                     "label": "Song Slot 183",
@@ -1645,6 +1881,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3134",
                     "baseIndex": 0,
                     "label": "Song Slot 184",
@@ -1652,6 +1889,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3138",
                     "baseIndex": 0,
                     "label": "Song Slot 185",
@@ -1659,6 +1897,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A313C",
                     "baseIndex": 0,
                     "label": "Song Slot 186",
@@ -1666,6 +1905,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3140",
                     "baseIndex": 0,
                     "label": "Song Slot 187",
@@ -1673,6 +1913,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3144",
                     "baseIndex": 0,
                     "label": "Song Slot 188",
@@ -1680,6 +1921,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3148",
                     "baseIndex": 0,
                     "label": "Song Slot 189",
@@ -1687,6 +1929,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A314C",
                     "baseIndex": 0,
                     "label": "Song Slot 190",
@@ -1694,6 +1937,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3150",
                     "baseIndex": 0,
                     "label": "Song Slot 191",
@@ -1701,6 +1945,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3154",
                     "baseIndex": 0,
                     "label": "Song Slot 192",
@@ -1708,6 +1953,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3158",
                     "baseIndex": 0,
                     "label": "Song Slot 193",
@@ -1715,6 +1961,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A315C",
                     "baseIndex": 0,
                     "label": "Song Slot 194",
@@ -1722,6 +1969,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3160",
                     "baseIndex": 0,
                     "label": "Song Slot 195",
@@ -1729,6 +1977,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3164",
                     "baseIndex": 0,
                     "label": "Song Slot 196",
@@ -1736,6 +1985,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3168",
                     "baseIndex": 0,
                     "label": "Song Slot 197",
@@ -1743,6 +1993,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A316C",
                     "baseIndex": 0,
                     "label": "Song Slot 198",
@@ -1750,6 +2001,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3170",
                     "baseIndex": 0,
                     "label": "Song Slot 199",
@@ -1757,6 +2009,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808A3174",
                     "baseIndex": 0,
                     "label": "Song Slot 200",
@@ -1767,8 +2020,10 @@
             "groupName": "Song Slots"
         },
         {
+            "expanded": true,
             "groupEntries": [
                 {
+                    "absoluteBranch": false,
                     "address": "8068A924",
                     "baseIndex": 0,
                     "label": "Total Arrows",
@@ -1776,13 +2031,7 @@
                     "unsigned": false
                 },
                 {
-                    "address": "8068A964",
-                    "baseIndex": 0,
-                    "label": "Song Freeze Hold",
-                    "typeIndex": 2,
-                    "unsigned": false
-                },
-                {
+                    "absoluteBranch": false,
                     "address": "8068A954",
                     "baseIndex": 0,
                     "label": "Song Freeze O.K.",
@@ -1790,6 +2039,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8068A958",
                     "baseIndex": 0,
                     "label": "Song Total Freeze Arrows",
@@ -1797,6 +2047,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8068A94C",
                     "baseIndex": 0,
                     "label": "Song Missed Freeze Arrows",
@@ -1804,6 +2055,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8068A920",
                     "baseIndex": 0,
                     "label": "Song MARVELOUS",
@@ -1811,6 +2063,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8068A91C",
                     "baseIndex": 0,
                     "label": "Song PERFECTS",
@@ -1818,6 +2071,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8068A968",
                     "baseIndex": 0,
                     "label": "Song COMBO MAX",
@@ -1825,6 +2079,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8068A8E8",
                     "baseIndex": 0,
                     "label": "Song Score",
@@ -1832,6 +2087,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8068A964",
                     "baseIndex": 0,
                     "label": "Song Actual Combo",
@@ -1839,6 +2095,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8068A918",
                     "baseIndex": 0,
                     "label": "Song GREATS",
@@ -1846,6 +2103,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8068A914",
                     "baseIndex": 0,
                     "label": "Song GOODS",
@@ -1853,6 +2111,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8068A90C",
                     "baseIndex": 0,
                     "label": "Song MISSES",
@@ -1860,6 +2119,15 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
+                    "address": "8068A96C",
+                    "baseIndex": 0,
+                    "label": "Actual Song MISSES (resets after getting a GOOD or better)",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "absoluteBranch": false,
                     "address": "8068A95C",
                     "baseIndex": 0,
                     "label": "Actual MAX Combo",
@@ -1867,6 +2135,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8068A991",
                     "baseIndex": 0,
                     "label": "Combo Related",
@@ -1874,6 +2143,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "8068A968",
                     "baseIndex": 0,
                     "label": "Combo Related",
@@ -1881,6 +2151,7 @@
                     "unsigned": false
                 },
                 {
+                    "absoluteBranch": false,
                     "address": "808B5330",
                     "baseIndex": 0,
                     "label": "Song Actual Combo?",
@@ -1891,6 +2162,7 @@
             "groupName": "In-Game Scoring"
         },
         {
+            "absoluteBranch": false,
             "address": "8054007B",
             "baseIndex": 0,
             "label": "REPLICANT D-ACTION FOLDER",
@@ -1898,6 +2170,7 @@
             "unsigned": false
         },
         {
+            "absoluteBranch": false,
             "address": "8054040C",
             "baseIndex": 4,
             "label": "DDR POINTS",
